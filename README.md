@@ -15,7 +15,7 @@ Arquivos dos slides usados em aula:
 - [ME04 - Princípio da Indução Finita](./ME04%20-%20Princípio%20da%20Indução%20Finita.pdf) (Versão 02)
 - [ME05 - Funções](./ME05%20-%20Funções.pdf) (Versão 01)
 - [ME06 - Progressões](./ME06%20-%20Progressões.pdf) (Versão 02)
-- [ME07 - Funções Reais e Gráficos](./ME07%20-%20Funções%20Reais%20e%20Gráficos) (Versão 01)
+- [ME07 - Funções Reais e Gráficos](./ME07%20-%20Funções%20Reais%20e%20Gráficos.pdf) (Versão 01)
 
 
 Encontrou algum erro ou tem alguma sugestão? mande email para [matematicaelementar@imd.ufrn.br](mailto:matematicaelementar@imd.ufrn.br). Basta informar seu nome e turma.
