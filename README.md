@@ -3,7 +3,7 @@
 Sobre a *versão 0.4* das Notas de Aula: Adição do *Capítulo 6 - Progressões* e os exercícios do *Capítulo 5 - Funções*. Pequenas correções no *Capítulo 5*.
 
 Arquivo das Notas de Aula:
-- [notas-de-aula-v0.4.pdf](./notas-de-aula-v0.4.pdf) (Versão 0.4)
+- [Notas de Aula](./notas-de-aula-v0.4.pdf) (Versão 0.4)
 
 
 ## Slides
