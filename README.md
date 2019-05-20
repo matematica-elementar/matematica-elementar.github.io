@@ -18,4 +18,4 @@ Arquivos dos slides usados em aula:
 - [ME07 - Funções Reais e Gráficos](./ME07%20-%20Funções%20Reais%20e%20Gráficos.pdf) (Versão 01)
 
 
-Encontrou algum erro ou tem alguma sugestão? mande email para [matematicaelementar@imd.ufrn.br](mailto:matematicaelementar@imd.ufrn.br). Basta informar seu nome e turma.
+Encontrou algum erro ou tem alguma sugestão? Mande e-mail para [matematicaelementar@imd.ufrn.br](mailto:matematicaelementar@imd.ufrn.br) com a sua contribuição. Informe, também, seu nome e sua turma.
