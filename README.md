@@ -3,9 +3,10 @@
 Sobre a *versão 0.5* das Notas de Aula:
 - Adição do *Capítulo 7 - Funções Reais e Gráficos*;
 - Pequenas correções no *Capítulo 5*.
+- Correção de bugs (v0.5.1)
 
 Arquivo das Notas de Aula:
-- [Notas de Aula](./notas-de-aula-v0.5.pdf) (Versão 0.5)
+- [Notas de Aula](./notas-de-aula-v0.5.1.pdf) (Versão 0.5.1)
 
 
 ## Slides
