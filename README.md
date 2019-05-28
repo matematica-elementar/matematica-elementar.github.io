@@ -19,6 +19,11 @@ Arquivos dos slides usados em aula:
 - [ME05 - Funções](./ME05%20-%20Funções.pdf) (Versão 01)
 - [ME06 - Progressões](./ME06%20-%20Progressões.pdf) (Versão 02)
 - [ME07 - Funções Reais e Gráficos](./ME07%20-%20Funções%20Reais%20e%20Gráficos.pdf) (Versão 01)
+- [ME08 - Funções Polinomiais](./ME08%20-%20Funções%20Polinomiais.pdf) (Versão 01)
+- [ME09 - Funções Exponenciais e Logarítmicas](./ME09%20-%20Funções%20Exponenciais%20e%20Logarítmicas.pdf) (Versão 01)
+- [ME10 - Funções Trigonométricas](ME10%20-%20Funções%20Trigonométricas.pdf) (Versão 01)
+
+
 
 
 Encontrou algum erro ou tem alguma sugestão? Mande e-mail para [matematicaelementar@imd.ufrn.br](mailto:matematicaelementar@imd.ufrn.br) com a sua contribuição. Informe, também, seu nome e sua turma.
