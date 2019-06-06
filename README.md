@@ -52,18 +52,21 @@ Segue todas as informações sobre as aulas de exercícios da monitoria. Só ter
 
 ### Dia 07/06
 Assunto: *Cap. 08 - Funções Polinomiais*
+
 Horários e salas:
 - M34 - A308
 - T56 - B203
 
 ### Dia 14/06
 Assunto: *Cap. 09 - Funções Exponenciais e Logarítmicas*
+
 Horários e salas:
 - M34 - A308
 - T56 - B204
 
 ### Dia 21/06
 Assunto: *Cap. 10 - Funções Trigonométricas*
+
 Horários e salas:
 - M34 - A308
 - T56 - B204
