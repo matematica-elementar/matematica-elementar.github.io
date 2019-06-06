@@ -1,4 +1,4 @@
-## Notas de Aula
+# Notas de Aula
 
 Sobre a *versão v0.6* das Notas de Aula:
 - Correções no *Capítulo 07*;
@@ -8,7 +8,7 @@ Arquivo das Notas de Aula:
 - [Notas de Aula](./notas-de-aula-v0.6.pdf) (Versão v0.6)
 
 
-## Slides
+# Slides
 
 Arquivos dos slides usados em aula:
 - [ME01 - Conjuntos](./ME01%20-%20Conjuntos.pdf) (Versão 01)
@@ -23,6 +23,49 @@ Arquivos dos slides usados em aula:
 - [ME10 - Funções Trigonométricas](ME10%20-%20Funções%20Trigonométricas.pdf) (Versão 01)
 
 
+# Monitoria
+Atualmente, a monitoria de ME conta com 4 monitores. São eles:
+- Douglas Lima
+- Giordano Rodrigues
+- Jefferson Guerra
+- Mateus Melo
 
+## Atendimento
+
+Abaixo, temos a tabela com os horários de atendimento individual:
+
+|     | Seg | Ter       | Qua       | Qui       | Sex       |
+|---: |:---:|:---:      |:---:      |:---:      |:---:      |
+| M12 | Dou |           |           |           |           |
+| M34 | Dou | Gio & Gue | Dou       | Gio & Gue | Mat       |
+| M56 |     | Gue       |           |           | Mat       |
+| T12 |     |           |           |           |           |
+| T34 |     | Mat       | Dou       |           |           |
+| T56 | Gio |           | Gio & Gue | Mat       | Gio & Gue |
+| N12 |     | Mat       |           | Dou       |           |
+| N34 |     |           |           |           |           |
+
+As monitorias acontecem na sala A220.
+
+## Aulas de Exercícios
+Segue todas as informações sobre as aulas de exercícios da monitoria. Só teremos 2 momentos a partir de agora, um a tarde e outro pela manhã. Assim, atentem aos horários de cada semana, sala e o assunto que será tratado. Vocês são livres para irem em qualquer horário.
+
+### Dia 07/06
+Assunto: *Cap. 08 - Funções Polinomiais*
+Horários e salas:
+- M34 - A308
+- T56 - B203
+
+### Dia 14/06
+Assunto: *Cap. 09 - Funções Exponenciais e Logarítmicas*
+Horários e salas:
+- M34 - A308
+- T56 - B204
+
+### Dia 21/06
+Assunto: *Cap. 10 - Funções Trigonométricas*
+Horários e salas:
+- M34 - A308
+- T56 - B204
 
 Encontrou algum erro ou tem alguma sugestão? Mande e-mail para [matematicaelementar@imd.ufrn.br](mailto:matematicaelementar@imd.ufrn.br) com a sua contribuição. Informe, também, seu nome e sua turma.
