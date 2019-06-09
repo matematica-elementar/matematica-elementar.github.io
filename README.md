@@ -55,20 +55,20 @@ Assunto: *Cap. 08 - Funções Polinomiais*
 
 Horários e salas:
 - M34 - A308
-- T56 - B203
+- T56 - B204
 
 ### Dia 14/06
 Assunto: *Cap. 09 - Funções Exponenciais e Logarítmicas*
 
 Horários e salas:
 - M34 - A308
-- T56 - B204
+- T56 - B203
 
 ### Dia 21/06
 Assunto: *Cap. 10 - Funções Trigonométricas*
 
 Horários e salas:
 - M34 - A308
-- T56 - B204
+- T56 - B203
 
 Encontrou algum erro ou tem alguma sugestão? Mande e-mail para [matematicaelementar@imd.ufrn.br](mailto:matematicaelementar@imd.ufrn.br) com a sua contribuição. Informe, também, seu nome e sua turma.
