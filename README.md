@@ -32,7 +32,7 @@ Atualmente, a monitoria de ME conta com 4 monitores. São eles:
 
 ## Atendimento
 
-Abaixo, temos a tabela com os horários de atendimento individual:
+Abaixo, segue uma tabela com os horários de atendimento individual:
 
 |     | Seg | Ter       | Qua       | Qui       | Sex       |
 |---: |:---:|:---:      |:---:      |:---:      |:---:      |
