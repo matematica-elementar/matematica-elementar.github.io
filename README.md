@@ -34,16 +34,16 @@ Atualmente, a monitoria de ME conta com 4 monitores. São eles:
 
 Abaixo, segue uma tabela com os horários de atendimento individual:
 
-|     | Seg | Ter       | Qua       | Qui       | Sex       |
-|---: |:---:|:---:      |:---:      |:---:      |:---:      |
-| M12 | Dou |           |           |           |           |
-| M34 | Dou | Gio & Gue | Dou       | Gio & Gue | Mat       |
-| M56 |     | Gue       |           |           | Mat       |
-| T12 |     |           |           |           |           |
-| T34 |     | Mat       | Dou       |           |           |
-| T56 | Gio |           | Gio & Gue | Mat       | Gio & Gue |
-| N12 |     | Mat       |           | Dou       |           |
-| N34 |     |           |           |           |           |
+|     | Segunda | Terça     | Quarta    | Quinta    | Sexta     |
+|---: |:---:    |:---:      |:---:      |:---:      |:---:      |
+| M12 | Dou     |           |           |           |           |
+| M34 | Dou     | Gio & Gue | Dou       | Gio & Gue | Mat       |
+| M56 |         | Gue       |           |           | Mat       |
+| T12 |         |           |           |           |           |
+| T34 |         | Mat       | Dou       |           |           |
+| T56 | Gio     |           | Gio & Gue | Mat       | Gio & Gue |
+| N12 |         | Mat       |           | Dou       |           |
+| N34 |         |           |           |           |           |
 
 As monitorias acontecem na sala A220.
 
