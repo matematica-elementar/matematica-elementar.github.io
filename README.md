@@ -1,11 +1,10 @@
 # Notas de Aula
 
-Sobre a *versão v0.6* das Notas de Aula:
-- Correções no *Capítulo 07*;
-- Lançamento do *Capítulo 08*.
+Sobre a *versão v0.7* das Notas de Aula:
+- Lançamento do *Capítulo 09*.
 
 Arquivo das Notas de Aula:
-- [Notas de Aula](./notas-de-aula-v0.6.pdf) (Versão v0.6)
+- [Notas de Aula](./notas-de-aula-v0.7.pdf) (Versão 0.7)
 
 
 # Slides
