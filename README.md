@@ -47,7 +47,7 @@ Abaixo, segue uma tabela com os horários de atendimento individual:
 As monitorias acontecem na sala A220.
 
 ## Aulas de Exercícios
-Segue todas as informações sobre as aulas de exercícios da monitoria. Só teremos 2 momentos a partir de agora, um a tarde e outro pela manhã. Assim, atentem aos horários de cada semana, sala e o assunto que será tratado. Vocês são livres para irem em qualquer horário.
+Segue todas as informações sobre as aulas de exercícios da monitoria. Vocês são livres para irem em qualquer horário.
 
 ### Dia 07/06
 Assunto: *Cap. 08 - Funções Polinomiais*
@@ -56,12 +56,24 @@ Horários e salas:
 - M34 - A308
 - T56 - B204
 
-### Dia 14/06
+>### Dia 14/06
+>Assunto: *Cap. 09 - Funções Exponenciais e Logarítmicas*
+
+**As aulas de exerícios desse dia foram ADIADAS para os dias 17/06 e 18/06 devido à greve dessa sexta.**
+
+Os atendimentos de monitoria desse dia também foram cancelados.
+
+### Dia 17/06 - Segunda
+Assunto: *Cap. 09 - Funções Exponenciais e Logarítmicas*
+
+Horários e salas:
+- T56 - A306
+
+### Dia 18/06 - Terça
 Assunto: *Cap. 09 - Funções Exponenciais e Logarítmicas*
 
 Horários e salas:
 - M34 - A308
-- T56 - B203
 
 ### Dia 21/06
 Assunto: *Cap. 10 - Funções Trigonométricas*
