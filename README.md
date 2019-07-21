@@ -30,56 +30,10 @@ Atualmente, a monitoria de ME conta com 3 monitores. São eles:
 - Mateus Melo
 
 ## Atendimento
-
-Abaixo, segue uma tabela com os horários de atendimento individual:
-
-|     | Segunda | Terça     | Quarta    | Quinta    | Sexta     |
-|---: |:---:    |:---:      |:---:      |:---:      |:---:      |
-| M12 | Dou     |           |           |           |           |
-| M34 | Dou     | Gio & Gue | Dou       | Gio & Gue | Mat       |
-| M56 |         | Gue       |           |           | Mat       |
-| T12 |         |           |           |           |           |
-| T34 |         | Mat       | Dou       |           |           |
-| T56 | Gio     |           | Gio & Gue | Mat       | Gio & Gue |
-| N12 |         | Mat       |           | Dou       |           |
-| N34 |         |           |           |           |           |
-
-As monitorias acontecem na sala A220.
+Os horários de atendimento para 2019.2 ainda serão definidos.
 
 ## Aulas de Exercícios
-Segue todas as informações sobre as aulas de exercícios da monitoria. Vocês são livres para irem em qualquer horário.
+Ainda não há nenhuma aula de exercícios marcada para o semestre 2019.2.
 
-### Dia 07/06
-Assunto: *Cap. 08 - Funções Polinomiais*
-
-Horários e salas:
-- M34 - A308
-- T56 - B204
-
->### Dia 14/06
->Assunto: *Cap. 09 - Funções Exponenciais e Logarítmicas*
-
-**As aulas de exerícios desse dia foram ADIADAS para os dias 17/06 e 18/06 devido à greve dessa sexta.**
-
-Os atendimentos de monitoria desse dia também foram cancelados.
-
-### Dia 17/06 - Segunda
-Assunto: *Cap. 09 - Funções Exponenciais e Logarítmicas*
-
-Horários e salas:
-- T56 - A306
-
-### Dia 18/06 - Terça
-Assunto: *Cap. 09 - Funções Exponenciais e Logarítmicas*
-
-Horários e salas:
-- M34 - A308
-
-### Dia 21/06
-Assunto: *Cap. 10 - Funções Trigonométricas*
-
-Horários e salas:
-- M34 - A308
-- T56 - B203
-
+---
 Encontrou algum erro ou tem alguma sugestão? Mande e-mail para [matematicaelementar@imd.ufrn.br](mailto:matematicaelementar@imd.ufrn.br) com a sua contribuição. Informe, também, seu nome e sua turma.
