@@ -1,5 +1,4 @@
 # Notas de Aula
-
 Sobre a *versão v0.8* das Notas de Aula:
 - Lançamento do *Capítulo 10*;
 - Correções nos *Capítulos 08* e *09*.
@@ -7,9 +6,7 @@ Sobre a *versão v0.8* das Notas de Aula:
 Arquivo das Notas de Aula:
 - [Notas de Aula](./notas-de-aula-v0.8.pdf) (Versão 0.8)
 
-
 # Slides
-
 Arquivos dos slides usados em aula:
 - [ME01 - Conjuntos](./ME01%20-%20Conjuntos.pdf) (Versão 01)
 - [ME02 - Conjuntos Numéricos e Potenciação](./ME02%20-%20Conjuntos%20Numéricos%20e%20Potenciação.pdf) (Versão 01)
@@ -21,7 +18,6 @@ Arquivos dos slides usados em aula:
 - [ME08 - Funções Polinomiais](./ME08%20-%20Funções%20Polinomiais.pdf) (Versão 01)
 - [ME09 - Funções Exponenciais e Logarítmicas](./ME09%20-%20Funções%20Exponenciais%20e%20Logarítmicas.pdf) (Versão 01)
 - [ME10 - Funções Trigonométricas](ME10%20-%20Funções%20Trigonométricas.pdf) (Versão 01)
-
 
 # Monitoria
 Atualmente, a monitoria de ME conta com 3 monitores. São eles:
