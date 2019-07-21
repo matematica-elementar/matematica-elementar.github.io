@@ -24,8 +24,7 @@ Arquivos dos slides usados em aula:
 
 
 # Monitoria
-Atualmente, a monitoria de ME conta com 4 monitores. São eles:
-- Douglas Lima
+Atualmente, a monitoria de ME conta com 3 monitores. São eles:
 - Giordano Rodrigues
 - Jefferson Guerra
 - Mateus Melo
