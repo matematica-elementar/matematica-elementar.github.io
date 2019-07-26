@@ -23,10 +23,23 @@ Arquivos dos slides usados em aula:
 Atualmente, a monitoria de ME conta com 3 monitores. São eles:
 - Giordano Rodrigues
 - Jefferson Guerra
-- Mateus Melo
+- Lorena Toscano
 
 ## Atendimento
-Os horários de atendimento para 2019.2 ainda serão definidos.
+Os horários de atendimentos dos monitores já estão definidos para o semestre 2019.2, e começam a partir de segunda-feira (29/7). Abaixo, segue uma tabela contendo horários de atendimento:
+
+|     | Segunda                   | Terça             | Quarta                    | Quinta            | Sexta    |
+| ---:| :---:                     | :---:             | :---:                     | :---:             | :---:    |
+| M12 |                           |                   |                           |                   |          |
+| M34 |                           | Giordano e Lorena |                           | Giordano e Lorena | Giordano |
+| M56 |                           |                   |                           |                   |          |
+| T12 |                           |                   |                           |                   |          |
+| T34 |                           |                   |                           | Lorena            |          |
+| T56 | Giordano, Guerra e Lorena |                   | Giordano, Guerra e Lorena | Guerra            |          |
+| N12 | Guerra                    |                   | Guerra                    |                   |          |
+| N34 |                           |                   |                           |                   |          |
+
+Os monitores são atendidos na sala A220.
 
 ## Aulas de Exercícios
 Ainda não há nenhuma aula de exercícios marcada para o semestre 2019.2.
