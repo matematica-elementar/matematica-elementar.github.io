@@ -42,7 +42,18 @@ Os horários de atendimentos dos monitores já estão definidos para o semestre 
 Os monitores são atendidos na sala A220.
 
 ## Aulas de Exercícios
-Ainda não há nenhuma aula de exercícios marcada para o semestre 2019.2.
+As aulas de exercícios fazem parte do projeto de monitoria de Matemática Elementar, e costumam ocorrer nos horários de atendimento ou em horários extras. O funcionamento das aulas de exercícios se deve através da resolução de alguns exercícios tradicionalmente retirados das listas de exercícios, que são, na maioria das vezes, resolvidos pelos monitores.
+
+A escolha dos exercícios é *pré-definida* para cada aula de exercícios. O espaço é aberto para a participação dos alunos, onde podem ser feitas perguntas sobre a resolução do exercício em questão.
+
+É possível acompanhar o agendamento das aulas de exercícios aqui no site.
+
+### Tabela das aulas de exercícios
+Abaixo, segue uma tabela com todas as aulas de exercícios que já foram agendadas para o semestre atual.
+
+| Data  | Horário | Assunto                | Sala  |
+| ---   | ---     | ---                    | ---   |
+| 12/08 | T56     | Capítulo 1 - Conjuntos | A308  |
 
 ---
 Encontrou algum erro ou tem alguma sugestão? Mande e-mail para [matematicaelementar@imd.ufrn.br](mailto:matematicaelementar@imd.ufrn.br) com a sua contribuição. Informe, também, seu nome e sua turma.
