@@ -51,9 +51,10 @@ A escolha dos exercícios é *pré-definida* para cada aula de exercícios. O es
 ### Tabela das aulas de exercícios
 Abaixo, segue uma tabela com todas as aulas de exercícios que já foram agendadas para o semestre atual.
 
-| Data  | Horário | Assunto                | Sala  |
-| ---   | ---     | ---                    | ---   |
-| 12/08 | T56     | Capítulo 1 - Conjuntos | A308  |
+| Data  | Horário | Assunto                                     | Sala  |
+| ---   | ---     | ---                                         | ---   |
+| 12/08 | 2T56    | Capítulo 1 - Conjuntos                      | A308  |
+| 28/08 | 4T56    | Capítulo 1 - Lógica e Capítulo 3 - Equações | A308  |
 
 ---
 Encontrou algum erro ou tem alguma sugestão? Por favor, comunique-nos mandando um e-mail para o endereço [matematicaelementar@imd.ufrn.br](mailto:matematicaelementar@imd.ufrn.br) com a sua contribuição e identificação com nome e turma. Agradecemos a sua colaboração.
