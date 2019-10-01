@@ -28,13 +28,13 @@ Atualmente, a monitoria de ME conta com 3 monitores. São eles:
 ## Atendimento
 Os horários de atendimentos dos monitores já estão definidos para o semestre 2019.2, e começam a partir de segunda-feira (29/7). Abaixo, segue uma tabela contendo horários de atendimento:
 
-|               | Segunda                   | Terça     | Quarta                    | Quinta            | Sexta    |
-| ---:          | :---:                     | :---:     | :---:                     | :---:             | :---:    |
-| 08:55 - 10:35 |                           | Lorena    |                           | Lorena            |          |
-| 10:00 - 11:40 |                           | Giordano  |                           | Giordano          | Giordano |
-| 14:55 - 16:35 |                           |           |                           | Lorena            |          |
-| 16:50 - 18:30 | Giordano, Guerra e Lorena |           | Giordano, Guerra e Lorena | Guerra            |          |
-| 18:45 - 20:25 | Guerra                    |           | Guerra                    |                   |          |
+| Horários      | Segunda                  | Terça     | Quarta                              | Quinta   | Sexta    |
+| :---:         | :---:                    | :---:     | :---:                               | :---:    | :---:    |
+| 08:55 - 10:35 |                          | Lorena    |                                     | Lorena   |          |
+| 10:00 - 11:40 |                          | Giordano  |                                     | Giordano | Giordano |
+| 14:55 - 16:35 |                          |           |                                     | Lorena   |          |
+| 16:50 - 18:30 | Giordano,&#013;Guerra&#013;e Lorena || Giordano,&#013;Guerra&#013;e Lorena | Guerra   |          |
+| 18:45 - 20:25 | Guerra                   |           | Guerra                              |          |          |
 
 As monitorias ocorrem, geralmente, na sala A220 do CIVT.
 
