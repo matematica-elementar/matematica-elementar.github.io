@@ -36,7 +36,7 @@ Os horários de atendimentos dos monitores já estão definidos para o semestre 
 | 16:50 - 18:30 | Giordano, Guerra e Lorena |           | Giordano, Guerra e Lorena | Guerra            |          |
 | 18:45 - 20:25 | Guerra                    |           | Guerra                    |                   |          |
 
-Os monitores são atendidos na sala A220.
+As monitorias ocorrem, geralmente, na sala A220 do CIVT.
 
 ## Aulas de Exercícios
 As aulas de exercícios fazem parte do projeto de monitoria de Matemática Elementar, e costumam ocorrer nos horários de atendimento ou em horários extras. O funcionamento das aulas de exercícios se deve através da resolução de alguns exercícios tradicionalmente retirados das listas de exercícios, que são, na maioria das vezes, resolvidos pelos monitores.
