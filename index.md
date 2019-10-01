@@ -28,13 +28,13 @@ Atualmente, a monitoria de ME conta com 3 monitores. São eles:
 ## Atendimento
 Os horários de atendimentos dos monitores já estão definidos para o semestre 2019.2, e começam a partir de segunda-feira (29/7). Abaixo, segue uma tabela contendo horários de atendimento:
 
-| Horários      | Segunda                  | Terça     | Quarta                              | Quinta   | Sexta    |
-| :---:         | :---:                    | :---:     | :---:                               | :---:    | :---:    |
-| 08:55 - 10:35 |                          | Lorena    |                                     | Lorena   |          |
-| 10:00 - 11:40 |                          | Giordano  |                                     | Giordano | Giordano |
-| 14:55 - 16:35 |                          |           |                                     | Lorena   |          |
-| 16:50 - 18:30 | Giordano,&#013;Guerra&#013;e Lorena || Giordano,&#013;Guerra&#013;e Lorena | Guerra   |          |
-| 18:45 - 20:25 | Guerra                   |           | Guerra                              |          |          |
+| Horários      | Segunda                   | Terça     | Quarta                    | Quinta   | Sexta    |
+| :---:         | :---:                     | :---:     | :---:                     | :---:    | :---:    |
+| 08:55 - 10:35 |                           | Lorena    |                           | Lorena   |          |
+| 10:00 - 11:40 |                           | Giordano  |                           | Giordano | Giordano |
+| 14:55 - 16:35 |                           |           |                           | Lorena   |          |
+| 16:50 - 18:30 | Giordano, Guerra e Lorena |           | Giordano, Guerra e Lorena | Guerra   |          |
+| 18:45 - 20:25 | Guerra                    |           | Guerra                    |          |          |
 
 As monitorias ocorrem, geralmente, na sala A220 do CIVT.
 
@@ -55,6 +55,8 @@ Abaixo, segue uma tabela com todas as aulas de exercícios que já foram agendad
 | 09/09 | 2T56    | Capítulo 3 - Inequações, Módulo e Desigualdades Clássicas | A308 |
 | 25/09 | 4T56    | Capítulo 4 - Princípio da Indução Finita                  | A308 |
 | 02/10 | 4T56    | Capítulo 5 - Funções                                      | A308 |
+| 07/10 | 2T56    | Capítulo 5 - Funções e Capítulo 6 - Progressões           | A308 |
+| 14/10 | 2T56    | Capítulo 6 - Progressões                                  | A308 |
 
 ---
 Encontrou algum erro ou tem alguma sugestão? Por favor, comunique-nos mandando um e-mail para o endereço [matematicaelementar@imd.ufrn.br](mailto:matematicaelementar@imd.ufrn.br) com a sua contribuição e identificação com nome e turma. Agradecemos a sua colaboração.
