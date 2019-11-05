@@ -58,6 +58,7 @@ Abaixo, segue uma tabela com todas as aulas de exercícios que já foram agendad
 | 07/10 | 2T56    | Capítulo 5 - Funções e Capítulo 6 - Progressões           | A308 |
 | 14/10 | 2T56    | Capítulo 6 - Progressões                                  | A308 |
 | 04/11 | 2T56    | Capítulo 7 - Funções Reais e Gráficos                     | A308 |
+| 06/11 | 4T56    | Capítulo 8 - Funções Polinomiais                          | A308 |
 
 ---
 Encontrou algum erro ou tem alguma sugestão? Por favor, comunique-nos mandando um e-mail para o endereço [matematicaelementar@imd.ufrn.br](mailto:matematicaelementar@imd.ufrn.br) com a sua contribuição e identificação com nome e turma. Agradecemos a sua colaboração.
