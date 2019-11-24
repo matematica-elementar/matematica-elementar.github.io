@@ -48,18 +48,19 @@ A escolha dos exercícios é *pré-definida* para cada aula de exercícios. O es
 ### Tabela das aulas de exercícios
 Abaixo, segue uma tabela com todas as aulas de exercícios que já foram agendadas para o semestre atual.
 
-| Data  | Horário | Assunto                                                   | Sala |
-| ---   | ---     | ---                                                       | ---  |
-| 12/08 | 2T56    | Capítulo 1 - Conjuntos                                    | A308 |
-| 28/08 | 4T56    | Capítulo 1 - Lógica e Capítulo 3 - Equações               | A308 |
-| 09/09 | 2T56    | Capítulo 3 - Inequações, Módulo e Desigualdades Clássicas | A308 |
-| 25/09 | 4T56    | Capítulo 4 - Princípio da Indução Finita                  | A308 |
-| 02/10 | 4T56    | Capítulo 5 - Funções                                      | A308 |
-| 07/10 | 2T56    | Capítulo 5 - Funções e Capítulo 6 - Progressões           | A308 |
-| 14/10 | 2T56    | Capítulo 6 - Progressões                                  | A308 |
-| 04/11 | 2T56    | Capítulo 7 - Funções Reais e Gráficos                     | A308 |
-| 06/11 | 4T56    | Capítulo 8 - Funções Polinomiais                          | A308 |
-| 18/11 | 2T56    | Capítulo 9 - Funções Exponenciais e Logarítmicas          | A308 |
+| Data  | Horário | Assunto                                                    | Sala |
+| ---   | ---     | ---                                                        | ---  |
+| 12/08 | 2T56    | Capítulo 1  - Conjuntos                                    | A308 |
+| 28/08 | 4T56    | Capítulo 1  - Lógica e Capítulo 3 - Equações               | A308 |
+| 09/09 | 2T56    | Capítulo 3  - Inequações, Módulo e Desigualdades Clássicas | A308 |
+| 25/09 | 4T56    | Capítulo 4  - Princípio da Indução Finita                  | A308 |
+| 02/10 | 4T56    | Capítulo 5  - Funções                                      | A308 |
+| 07/10 | 2T56    | Capítulo 5  - Funções e Capítulo 6 - Progressões           | A308 |
+| 14/10 | 2T56    | Capítulo 6  - Progressões                                  | A308 |
+| 04/11 | 2T56    | Capítulo 7  - Funções Reais e Gráficos                     | A308 |
+| 06/11 | 4T56    | Capítulo 8  - Funções Polinomiais                          | A308 |
+| 18/11 | 2T56    | Capítulo 9  - Funções Exponenciais e Logarítmicas          | A308 |
+| 27/11 | 4T56    | Capítulo 10 - Funções Trigonométricas                      | A308 |
 
 ---
 Encontrou algum erro ou tem alguma sugestão? Por favor, comunique-nos mandando um e-mail para o endereço [matematicaelementar@imd.ufrn.br](mailto:matematicaelementar@imd.ufrn.br) com a sua contribuição e identificação com nome e turma. Agradecemos a sua colaboração.
