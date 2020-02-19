@@ -1,10 +1,10 @@
 # Notas de Aula
-Sobre a *versão v0.8* das Notas de Aula:
-- Lançamento do *Capítulo 10*
-- Correções nos *Capítulos 08* e *09*
+Sobre a *versão v0.10* das Notas de Aula:
+- Ajustes nas Seções 1.1 a 1.5 e outros ajustes diversos;
+- Adição de conteúdo no Capítulo 1 e exercícios nos Capítulos 1 e 3.
 
 Arquivo das Notas de Aula:
-- [Notas de Aula](materiais/Notas%20de%20Aula.pdf) (Versão 0.8)
+- [Notas de Aula](materiais/Notas%20de%20Aula.pdf) (Versão 0.10)
 
 # Slides
 Arquivos dos slides usados em aula:
