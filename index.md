@@ -1,9 +1,31 @@
+# Informações Gerais
+As informações abaixo são importantes para o acompanhamento da disciplina no período suplementar 2020.5 e estão previstas no Plano de Curso.
+
+## Contato
+Email para contato com professores e envio de dúvidas: [matematicaelementar@imd.ufrn.br](mailto:matematicaelementar@imd.ufrn.br).
+
+## Khan Academy
+O desempenho das atividades da KA servirá como presença, ou seja, é preciso um mínimo de 75% de aproveitamento para não ser reprovado por falta.
+
+Não sabe o que é a KA e nunca fez um cadastro em turmas passadas de ME? Então dá uma olhada com carinho no documento disponível no SIGAA e manda email em caso de dúvidas.
+
+Link para turma virtual da KA (OBRIGATÓRIO) você vê no SIGAA.
+
+## Aplicações recomendadas
+- Foxit Reader para leitura de documentos em formato PDF. Download para [PC](https://www.foxitsoftware.com/pt-br/downloads/), [Android](https://play.google.com/store/apps/details?id=com.foxit.mobile.pdf.lite) ou [iOS](https://itunes.apple.com/us/app/foxit-pdf-pdf-reader-editor/id507040546?mt=8);
+
+- Lives via Google Meet. Se utilizado em um PC, utilizar o navegador Google Chrome com a extensão [Nod - Reactions for Google Meet](https://chrome.google.com/webstore/detail/nod-reactions-for-google/oikgofeboedgfkaacpfepbfmgdalabej);
+
+- Plataforma [Overleaf](https://www.overleaf.com/) para escrita dos exercícios e avaliações. O preâmbulo geral recomendado para os exercícios pode ser acessado [aqui](http://gg.gg/LatexEstudos).
+
+
 # Notas de Aula
 Sobre a *versão 1.0* das Notas de Aula:
 - Melhorias no Capítulo 1.
 
 Arquivo das Notas de Aula:
 - [Notas de Aula](materiais/Notas%20de%20Aula.pdf) (Versão 1.0)
+
 
 # Slides
 Arquivos dos slides usados em aula:
@@ -18,21 +40,10 @@ Arquivos dos slides usados em aula:
 - [ME09 - Funções Exponenciais e Logarítmicas](materiais/ME09%20-%20Funções%20Exponenciais%20e%20Logarítmicas.pdf)
 - [ME10 - Funções Trigonométricas](materiais/ME10%20-%20Funções%20Trigonométricas.pdf)
 
+
 # Monitoria
 Os monitores para 2020 ainda não foram definidos. 
 
-## Atendimento
-Os atendimentos individuais ocorrem, geralmente, na sala A220 do CIVT.
-
-## Aulas de Exercícios
-As aulas de exercícios fazem parte do projeto de monitoria de Matemática Elementar, e costumam ocorrer nos horários de atendimento ou em horários extras. O funcionamento das aulas de exercícios se deve através da resolução de alguns exercícios tradicionalmente retirados das listas de exercícios, que são, na maioria das vezes, resolvidos pelos monitores.
-
-A escolha dos exercícios é *pré-definida* para cada aula de exercícios. O espaço é aberto para a participação dos alunos, onde podem ser feitas perguntas sobre a resolução do exercício em questão.
-
-É possível acompanhar o agendamento das aulas de exercícios aqui no site.
-
-### Tabela das aulas de exercícios
-Ainda não temos aulas de exercício marcadas para este semestre.
 
 ---
 Encontrou algum erro ou tem alguma sugestão? Por favor, comunique-nos mandando um e-mail para o endereço [matematicaelementar@imd.ufrn.br](mailto:matematicaelementar@imd.ufrn.br) com a sua contribuição e identificação com nome e turma. Agradecemos a sua colaboração.
