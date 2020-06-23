@@ -20,11 +20,11 @@ Link para turma virtual da KA (OBRIGATÓRIO) você vê no SIGAA.
 
 
 # Notas de Aula
-Sobre a *versão 1.0* das Notas de Aula:
-- Melhorias no Capítulo 1.
+Sobre a *versão 1.1* das Notas de Aula:
+- Melhorias no Capítulo 2 e 3 e ajustes gerais.
 
 Arquivo das Notas de Aula:
-- [Notas de Aula](materiais/Notas%20de%20Aula.pdf) (Versão 1.0)
+- [Notas de Aula](materiais/Notas%20de%20Aula.pdf) (Versão 1.1)
 
 
 # Slides
