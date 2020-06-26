@@ -25,6 +25,7 @@ Sobre a *versão 1.2* das Notas de Aula:
 
 Arquivo das Notas de Aula:
 - [Notas de Aula](materiais/Notas%20de%20Aula.pdf) (Versão 1.2)
+- Alternativamente, faça o download neste [link](https://github.com/matematica-elementar/notas-de-aula/releases/download/v1.2/notas-de-aula-v1.2.pdf).
 
 
 # Slides
