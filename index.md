@@ -23,10 +23,10 @@ Link para turma virtual da KA (OBRIGATÓRIO) você vê no SIGAA.
 As Notas de Aula são o material principal para o acompanhamento da disciplina. Elas são fruto de um projeto de pesquisa coordenado pelo professor Antonio Igor.
 
 Arquivo das Notas de Aula:
-- Notas de Aula - Versão 1.4: [Preview](materiais/notas-de-aula-v1.4.pdf).
+- Notas de Aula - Versão 1.5: [Preview](materiais/notas-de-aula-v1.5.pdf) ou [Download](https://github.com/matematica-elementar/notas-de-aula/releases/download/v1.5/notas-de-aula-v1.5.pdf).
 
 Notas de atualização:
-- Correções diversas nos capítulos 5, 6 e 7.
+- Melhorias nos capítulos 7 e 8
 
 
 # Slides
