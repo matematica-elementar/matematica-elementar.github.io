@@ -1,5 +1,5 @@
 # Informações Gerais
-As informações sobre a oferta da disciplina no retorno do semestre 2020.1 (2020.6) podem se baixadas em [Plano de Curso](materiais/plano-de-curso.pdf).
+As informações sobre a oferta da disciplina no retorno do semestre 2020.1 (2020.6) podem ser baixadas em [Plano de Curso](materiais/plano-de-curso.pdf).
 
 ## Contato
 Email para contato com professores e monitores: [matematicaelementar@imd.ufrn.br](mailto:matematicaelementar@imd.ufrn.br).
