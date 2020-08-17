@@ -1,23 +1,8 @@
 # Informações Gerais
-As informações abaixo são importantes para o acompanhamento da disciplina no período suplementar 2020.5 e estão previstas no Plano de Curso.
+As informações sobre a oferta da disciplina no retorno do semestre 2020.1 (2020.6) podem se baixadas em [Plano de Curso](materiais/plano-de-curso.pdf)
 
 ## Contato
-Email para contato com professores e envio de dúvidas: [matematicaelementar@imd.ufrn.br](mailto:matematicaelementar@imd.ufrn.br).
-
-## Khan Academy
-O desempenho das atividades da KA servirá como presença, ou seja, é preciso um mínimo de 75% de aproveitamento para não ser reprovado por falta.
-
-Não sabe o que é a KA e nunca fez um cadastro em turmas passadas de ME? Então dá uma olhada com carinho no documento disponível no SIGAA e manda email em caso de dúvidas.
-
-Link para turma virtual da KA (OBRIGATÓRIO) você vê no SIGAA.
-
-## Aplicações recomendadas
-- Foxit Reader para leitura de documentos em formato PDF. Download para [PC](https://www.foxitsoftware.com/pt-br/downloads/), [Android](https://play.google.com/store/apps/details?id=com.foxit.mobile.pdf.lite) ou [iOS](https://itunes.apple.com/us/app/foxit-pdf-pdf-reader-editor/id507040546?mt=8);
-
-- Lives via Google Meet. Se utilizado em um PC, utilizar o navegador Google Chrome com a extensão [Nod - Reactions for Google Meet](https://chrome.google.com/webstore/detail/nod-reactions-for-google/oikgofeboedgfkaacpfepbfmgdalabej);
-
-- Plataforma [Overleaf](https://www.overleaf.com/) para escrita dos exercícios e avaliações. O preâmbulo geral recomendado para os exercícios pode ser acessado [aqui](http://gg.gg/LatexEstudos).
-
+Email para contato com professores e monitores: [matematicaelementar@imd.ufrn.br](mailto:matematicaelementar@imd.ufrn.br).
 
 # Notas de Aula
 As Notas de Aula são o material principal para o acompanhamento da disciplina. Elas são fruto de um projeto de pesquisa coordenado pelo professor Antonio Igor.
