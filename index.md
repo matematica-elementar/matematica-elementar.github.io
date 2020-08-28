@@ -28,8 +28,17 @@ Arquivos dos slides usados em aula:
 
 
 # Monitoria
-Os monitores para 2020 já foram selecionados. Em breve, divulgaremos os horários de atendimento.
-
+Horários de atendimento da monitoria:
+|     |  Segunda  |        Terça       |   Quarta  |       Quinta       |        Sexta       |
+|-----|:---------:|:------------------:|:---------:|:------------------:|:------------------:|
+| M12 |           |                    |           |                    |                    |
+| M34 |           | Fernanda Gonçalves |           | Fernanda Gonçalves |  Gregorio Pinheiro |
+| M56 |           |                    |           |                    |                    |
+| T12 |           |                    |           |                    |                    |
+| T34 |           |  Gregorio Pinheiro |           |  Gregorio Pinheiro |      José Davi     |
+| T56 |           |                    |           |                    |                    |
+| N12 | José Davi |                    | José Davi |                    | Fernanda Gonçalves |
+| N34 |           |                    |           |                    |                    |
 
 ---
 Encontrou algum erro ou tem alguma sugestão? Por favor, comunique-nos mandando um e-mail para o endereço [matematicaelementar@imd.ufrn.br](mailto:matematicaelementar@imd.ufrn.br) com a sua contribuição e identificação com nome e turma. Agradecemos a sua colaboração.
