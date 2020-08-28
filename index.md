@@ -28,17 +28,18 @@ Arquivos dos slides usados em aula:
 
 
 # Monitoria
-Horários de atendimento da monitoria:
-|     |  Segunda  |        Terça       |   Quarta  |       Quinta       |        Sexta       |
-|-----|:---------:|:------------------:|:---------:|:------------------:|:------------------:|
-| M12 |           |                    |           |                    |                    |
-| M34 |           | Fernanda Gonçalves |           | Fernanda Gonçalves |  Gregorio Pinheiro |
-| M56 |           |                    |           |                    |                    |
-| T12 |           |                    |           |                    |                    |
-| T34 |           |  Gregorio Pinheiro |           |  Gregorio Pinheiro |      José Davi     |
-| T56 |           |                    |           |                    |                    |
-| N12 | José Davi |                    | José Davi |                    | Fernanda Gonçalves |
-| N34 |           |                    |           |                    |                    |
+Os monitores para o semestre 2020.1 (2020.6) são Fernanda Gonçalves, Gregorio Pinheiro e José Davi. Horários de atendimento da monitoria:
+
+|     | Segunda |   Terça  | Quarta |  Quinta  |   Sexta  |
+|-----|:-------:|:--------:|:------:|:--------:|:--------:|
+| M12 |         |          |        |          |          |
+| M34 |         | Fernanda |        | Fernanda | Gregorio |
+| M56 |         |          |        |          |          |
+| T12 |         |          |        |          |          |
+| T34 |         | Gregorio |        | Gregorio |   Davi   |
+| T56 |         |          |        |          |          |
+| N12 |   Davi  |          |  Davi  |          | Fernanda |
+| N34 |         |          |        |          |          |
 
 ---
 Encontrou algum erro ou tem alguma sugestão? Por favor, comunique-nos mandando um e-mail para o endereço [matematicaelementar@imd.ufrn.br](mailto:matematicaelementar@imd.ufrn.br) com a sua contribuição e identificação com nome e turma. Agradecemos a sua colaboração.
