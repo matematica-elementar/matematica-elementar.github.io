@@ -28,7 +28,9 @@ Arquivos dos slides usados em aula:
 
 
 # Monitoria
-Os monitores para o semestre 2020.1 (2020.6) são Fernanda Gonçalves, Gregorio Pinheiro e José Davi. Horários de atendimento da monitoria:
+Os monitores para o semestre 2020.1 (2020.6) são Fernanda Gonçalves, Gregorio Pinheiro e José Davi.
+
+Horários de atendimento:
 
 |     | Segunda |   Terça  | Quarta |  Quinta  |   Sexta  |
 |-----|:-------:|:--------:|:------:|:--------:|:--------:|
