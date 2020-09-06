@@ -35,8 +35,8 @@ Horários de atendimento:
 |     | Segunda |   Terça  | Quarta |  Quinta  |   Sexta  |
 |-----|:-------:|:--------:|:------:|:--------:|:--------:|
 | M12 |         |          |        |          |          |
-| M34 |         | Fernanda |        | Fernanda | Gregorio |
-| M56 |         |          |        |          |          |
+| M34 |         |          |        |          |          |
+| M56 |         | Fernanda |        | Fernanda | Gregorio |
 | T12 |         |          |        |          |          |
 | T34 |         | Gregorio |        | Gregorio |   Davi   |
 | T56 |         |          |        |          |          |
