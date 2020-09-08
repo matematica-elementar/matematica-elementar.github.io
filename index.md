@@ -8,10 +8,10 @@ Email para contato com professores e monitores: [matematicaelementar@imd.ufrn.br
 As Notas de Aula são o material principal para o acompanhamento da disciplina. Elas são fruto de um projeto de pesquisa coordenado pelo professor Antonio Igor.
 
 Arquivo das Notas de Aula:
-- Notas de Aula - Versão 1.6: [Preview](materiais/notas-de-aula-v1.6.pdf).
+- Notas de Aula - Versão 1.7: [Preview](materiais/notas-de-aula-v1.7.pdf).
 
 Notas de atualização:
-- Correções e melhorias nos capítulos 9 e 10
+- Melhorias no capítulo 1
 
 # Slides
 Arquivos dos slides usados em aula:
