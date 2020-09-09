@@ -30,17 +30,17 @@ Arquivos dos slides usados em aula:
 # Monitoria
 Os monitores para o semestre 2020.1 (2020.6) são Fernanda Gonçalves, Gregorio Pinheiro e José Davi.
 
-Horários de atendimento:
+Horários de atendimento (clique nos nomes para entrar na sala da monitoria no Google Meet):
 
 |     | Segunda |   Terça  | Quarta |  Quinta  |   Sexta  |
 |-----|:-------:|:--------:|:------:|:--------:|:--------:|
 | M12 |         |          |        |          |          |
-| M34 |         |          |        |          |          |
-| M56 |         | Fernanda |        | Fernanda | Gregorio |
-| T12 |         |          |        |          |          |
-| T34 |         | Gregorio |        | Gregorio |   Davi   |
+| M34 |  [Aula](https://meet.google.com/iyv-wxxq-gjk?authuser=0&hs=122)   |          |  [Aula](https://meet.google.com/iyv-wxxq-gjk?authuser=0&hs=122)  |          |          |
+| M56 |         | [Fernanda](https://meet.google.com/mpa-abig-ecw) |        | [Fernanda](https://meet.google.com/fqz-ngbo-zfr) | [Gregorio](https://meet.google.com/mgm-xjix-wfn) |
+| T12 |  [Aula](https://meet.google.com/zfe-aiqg-vpr?authuser=0&hs=122)   |          |  [Aula](https://meet.google.com/zfe-aiqg-vpr?authuser=0&hs=122)  |          |          |
+| T34 |         | [Gregorio](https://meet.google.com/uuo-wqpu-amm) |        | [Gregorio](https://meet.google.com/uuo-wqpu-amm) |   [Davi](https://meet.google.com/uue-gbha-vvt)   |
 | T56 |         |          |        |          |          |
-| N12 |   Davi  |          |  Davi  |          | Fernanda |
+| N12 |   [Davi](https://meet.google.com/qjb-jrgi-rew)  |    [Aula](https://meet.google.com/mkn-wmvg-yah?authuser=0&hs=122)    |  [Davi](https://meet.google.com/hyr-ibzb-chk)  |    [Aula](https://meet.google.com/mkn-wmvg-yah?authuser=0&hs=122)   | [Fernanda](https://meet.google.com/dpn-subv-ptd) |
 | N34 |         |          |        |          |          |
 
 ---
