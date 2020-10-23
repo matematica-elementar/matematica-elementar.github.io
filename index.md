@@ -8,12 +8,12 @@ Email para contato com professores e monitores: [matematicaelementar@imd.ufrn.br
 As Notas de Aula são o material principal para o acompanhamento da disciplina. Elas são fruto de um projeto de pesquisa coordenado pelo professor Antonio Igor.
 
 Arquivo das Notas de Aula:
-- Notas de Aula - Versão 1.9: [Preview](materiais/notas-de-aula-v1.9.pdf).
+- Notas de Aula - Versão 1.10: [Preview](materiais/notas-de-aula-v1.10.pdf).
 
 Notas de atualização:
-- Melhorias no capítulo 3
+- Inserção da TV Elementar em todos os capítulos e outras correções menores.
 
-# Slides
+<!-- # Slides
 Arquivos dos slides usados em aula:
 - [ME01 - Conjuntos](materiais/ME01%20-%20Conjuntos.pdf)
 - [ME02 - Conjuntos Numéricos e Potenciação](materiais/ME02%20-%20Conjuntos%20Numéricos%20e%20Potenciação.pdf)
@@ -24,7 +24,7 @@ Arquivos dos slides usados em aula:
 - [ME07 - Funções Reais e Gráficos](materiais/ME07%20-%20Funções%20Reais%20e%20Gráficos.pdf)
 - [ME08 - Funções Polinomiais](materiais/ME08%20-%20Funções%20Polinomiais.pdf)
 - [ME09 - Funções Exponenciais e Logarítmicas](materiais/ME09%20-%20Funções%20Exponenciais%20e%20Logarítmicas.pdf)
-- [ME10 - Funções Trigonométricas](materiais/ME10%20-%20Funções%20Trigonométricas.pdf)
+- [ME10 - Funções Trigonométricas](materiais/ME10%20-%20Funções%20Trigonométricas.pdf) -->
 
 
 # Monitoria
