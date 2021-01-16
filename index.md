@@ -1,5 +1,5 @@
 # Informações Gerais
-As informações sobre a oferta da disciplina no retorno do semestre 2020.1 (2020.6) podem ser baixadas em [Plano de Curso](materiais/plano-de-curso.pdf).
+As informações sobre a oferta da disciplina no período 2020.2 podem ser lidas no [Plano de Curso](https://drive.google.com/file/d/1P5gzhI-wrO_lZKLjTi2-reVs7j3ia8bb/view?usp=sharing). Uma live de dúvidas sobre esse plano pode ser assistida [aqui](https://drive.google.com/drive/folders/1H70yHhUw56rLBTXCzbOfJ-ODy1v9OkPd?usp=sharing).
 
 ## Contato
 Email para contato com professores e monitores: [matematicaelementar@imd.ufrn.br](mailto:matematicaelementar@imd.ufrn.br).
@@ -28,19 +28,19 @@ Arquivos dos slides usados em aula:
 
 
 # Monitoria
-Os monitores para o semestre 2020.1 (2020.6) são Fernanda Gonçalves, Gregorio Pinheiro e José Davi.
+Os monitores para o semestre 2020.2 são Fernanda Gonçalves, Gregorio Pinheiro e José Davi.
 
 Horários de atendimento (clique nos nomes para entrar na sala da monitoria no Google Meet):
 
 |     | Segunda |   Terça  | Quarta |  Quinta  |   Sexta  |
 |-----|:-------:|:--------:|:------:|:--------:|:--------:|
 | M12 |         |          |        |          |          |
-| M34 |  [Aula](https://meet.google.com/iyv-wxxq-gjk?authuser=0&hs=122)   |          |  [Aula](https://meet.google.com/iyv-wxxq-gjk?authuser=0&hs=122)  |          |          |
-| M56 |         | [Fernanda](https://meet.google.com/mpa-abig-ecw?authuser=0&hs=122) |        | [Fernanda](https://meet.google.com/fqz-ngbo-zfr?authuser=0&hs=122) | [Gregorio](https://meet.google.com/mgm-xjix-wfn?authuser=0&hs=122) |
-| T12 |  [Aula](https://meet.google.com/zfe-aiqg-vpr?authuser=0&hs=122)   |          |  [Aula](https://meet.google.com/zfe-aiqg-vpr?authuser=0&hs=122)  |          |          |
-| T34 |         | [Gregorio](https://meet.google.com/uuo-wqpu-amm?authuser=0&hs=122) |        | [Gregorio](https://meet.google.com/uuo-wqpu-amm?authuser=0&hs=122) |   [Davi](https://meet.google.com/uue-gbha-vvt?authuser=0&hs=122)   |
+| M34 |         |          |        |          |[Davi](https://meet.google.com/gie-nnih-kug)|
+| M56 |         |[Gregorio](https://meet.google.com/bgx-fwcm-twk)|        |[Gregorio](https://meet.google.com/bgx-fwcm-twk)|          |
+| T12 |[Fernanda](https://meet.google.com/jpr-ztzj-knu)|          |[Fernanda](https://meet.google.com/jpr-ztzj-knu)|          |[Fernanda](https://meet.google.com/jpr-ztzj-knu)|
+| T34 |         |[Davi](https://meet.google.com/dip-mmyw-xmh)|        |[Davi](https://meet.google.com/dip-mmyw-xmh)|          |
 | T56 |         |          |        |          |          |
-| N12 |   [Davi](https://meet.google.com/qjb-jrgi-rew?authuser=0&hs=122)  |    [Aula](https://meet.google.com/mkn-wmvg-yah?authuser=0&hs=122)    |  [Davi](https://meet.google.com/hyr-ibzb-chk?authuser=0&hs=122)  |    [Aula](https://meet.google.com/mkn-wmvg-yah?authuser=0&hs=122)   | [Fernanda](https://meet.google.com/dpn-subv-ptd?authuser=0&hs=122) |
+| N12 |[Gregorio](https://meet.google.com/mps-zvrx-ghy)|          |        |          |          |
 | N34 |         |          |        |          |          |
 
 ---
