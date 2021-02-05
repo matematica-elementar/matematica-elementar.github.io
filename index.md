@@ -38,10 +38,12 @@ Horários de atendimento (clique nos nomes para entrar na sala da monitoria no G
 | M34 |         |          |        |          |[Davi](https://meet.google.com/gie-nnih-kug)|
 | M56 |         |[Gregorio](https://meet.google.com/bgx-fwcm-twk)|        |[Gregorio](https://meet.google.com/bgx-fwcm-twk)|          |
 | T12 |[Fernanda](https://meet.google.com/jpr-ztzj-knu)|          |[Fernanda](https://meet.google.com/jpr-ztzj-knu)|          |[Fernanda](https://meet.google.com/jpr-ztzj-knu)|
-| T34 |         |[Davi](https://meet.google.com/dip-mmyw-xmh)|        |[Davi](https://meet.google.com/dip-mmyw-xmh)|          |
+| T34 |         |[Davi](https://meet.google.com/dip-mmyw-xmh)|        |[Davi](https://meet.google.com/dip-mmyw-xmh)|[Davi](https://meet.google.com/sjp-semi-uzn)<span style="color: red">\*</span>|
 | T56 |         |          |        |          |          |
 | N12 |[Gregorio](https://meet.google.com/mps-zvrx-ghy)|          |        |          |          |
 | N34 |         |          |        |          |          |
+
+<span style="color:red"><sup>\*Horário especial para essa semana</sup></span>
 
 ---
 Encontrou algum erro ou tem alguma sugestão? Por favor, comunique-nos mandando um e-mail para o endereço [matematicaelementar@imd.ufrn.br](mailto:matematicaelementar@imd.ufrn.br) com a sua contribuição e identificação com nome e turma. Agradecemos a sua colaboração.
