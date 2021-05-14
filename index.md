@@ -1,10 +1,10 @@
-# Informações Gerais
-As informações sobre a oferta da disciplina no período 2020.2 podem ser lidas no [Plano de Curso](https://drive.google.com/file/d/1P5gzhI-wrO_lZKLjTi2-reVs7j3ia8bb/view?usp=sharing). Uma live de dúvidas sobre esse plano pode ser assistida [aqui](https://drive.google.com/drive/folders/1H70yHhUw56rLBTXCzbOfJ-ODy1v9OkPd?usp=sharing).
+<!-- # Informações Gerais
+As informações sobre a oferta da disciplina no período 2020.2 podem ser lidas no [Plano de Curso](https://drive.google.com/file/d/1P5gzhI-wrO_lZKLjTi2-reVs7j3ia8bb/view?usp=sharing). Uma live de dúvidas sobre esse plano pode ser assistida [aqui](https://drive.google.com/drive/folders/1H70yHhUw56rLBTXCzbOfJ-ODy1v9OkPd?usp=sharing). -->
 
 ## Contato
 Email para contato com professores e monitores: [matematicaelementar@imd.ufrn.br](mailto:matematicaelementar@imd.ufrn.br).
 
-# Notas de Aula
+# No::tas de Aula
 As Notas de Aula são o material principal para o acompanhamento da disciplina. Elas são fruto de um projeto de pesquisa coordenado pelo professor Antonio Igor.
 
 Arquivo das Notas de Aula:
