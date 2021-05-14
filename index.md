@@ -4,7 +4,7 @@ As informações sobre a oferta da disciplina no período 2020.2 podem ser lidas
 ## Contato
 Email para contato com professores e monitores: [matematicaelementar@imd.ufrn.br](mailto:matematicaelementar@imd.ufrn.br).
 
-# No::tas de Aula
+# Notas de Aula
 As Notas de Aula são o material principal para o acompanhamento da disciplina. Elas são fruto de um projeto de pesquisa coordenado pelo professor Antonio Igor.
 
 Arquivo das Notas de Aula:
