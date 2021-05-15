@@ -27,7 +27,7 @@ Arquivos dos slides usados em aula:
 - [ME10 - Funções Trigonométricas](materiais/ME10%20-%20Funções%20Trigonométricas.pdf) -->
 
 
-# Monitoria
+<!-- # Monitoria
 Os monitores para o semestre 2020.2 são Fernanda Gonçalves, Gregorio Pinheiro e José Davi.
 
 Horários de atendimento (clique nos nomes para entrar na sala da monitoria no Google Meet):
@@ -41,7 +41,7 @@ Horários de atendimento (clique nos nomes para entrar na sala da monitoria no G
 | T34 |         |[Davi](https://meet.google.com/dip-mmyw-xmh)|        |[Davi](https://meet.google.com/dip-mmyw-xmh)|          |
 | T56 |         |          |        |          |          |
 | N12 |[Gregorio](https://meet.google.com/mps-zvrx-ghy)|          |        |          |          |
-| N34 |         |          |        |          |          |
+| N34 |         |          |        |          |          |-->
 
 ---
 Encontrou algum erro ou tem alguma sugestão? Por favor, comunique-nos mandando um e-mail para o endereço [matematicaelementar@imd.ufrn.br](mailto:matematicaelementar@imd.ufrn.br) com a sua contribuição e identificação com nome e turma. Agradecemos a sua colaboração.
