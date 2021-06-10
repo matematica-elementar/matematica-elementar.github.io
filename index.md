@@ -37,10 +37,10 @@ Horários de atendimento (clique nos nomes para entrar na sala da monitoria no G
 | M12 |         |          |        |          |          |
 | M34 |         |          |        |          |[Gregorio](http://meet.google.com/vcb-dxmo-gew)|
 | M56 |[Gregorio](http://meet.google.com/gjw-ohod-wxn)|          |        |          |          |
-| T12 |         |          |[Rita](http://meet.google.com/ife-swvx-kti)|          |          |
+| T12 |         |          |[Rita](http://meet.google.com/djn-jenk-smg)|          |          |
 | T34 |         |          |        |[Gregorio](http://meet.google.com/jfw-bant-nas)|          |
-| T56 |         |[Rita](http://meet.google.com/kso-unuc-wvx)|        |          |          |
-| N12 |         |          |        |          |[Rita](http://meet.google.com/iog-xvgx-gmi)|
+| T56 |         |[Rita](http://meet.google.com/qxf-sddo-ztk)|        |          |          |
+| N12 |         |          |        |          |[Rita](http://meet.google.com/edr-capg-wma)|
 | N34 |         |          |        |          |          |
 
 ---
