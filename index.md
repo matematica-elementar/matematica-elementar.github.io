@@ -27,21 +27,21 @@ Arquivos dos slides usados em aula:
 - [ME10 - Funções Trigonométricas](materiais/ME10%20-%20Funções%20Trigonométricas.pdf) -->
 
 
-<!-- # Monitoria
-Os monitores para o semestre 2020.2 são Fernanda Gonçalves, Gregorio Pinheiro e José Davi.
+# Monitoria
+Os monitores para o semestre 2021.1 são Gregorio Pinheiro e Rita Cruz.
 
 Horários de atendimento (clique nos nomes para entrar na sala da monitoria no Google Meet):
 
 |     | Segunda |   Terça  | Quarta |  Quinta  |   Sexta  |
 |-----|:-------:|:--------:|:------:|:--------:|:--------:|
 | M12 |         |          |        |          |          |
-| M34 |         |          |        |          |[Davi](https://meet.google.com/yze-oofo-ywu)|
-| M56 |         |[Gregorio](https://meet.google.com/bgx-fwcm-twk)|        |[Gregorio](https://meet.google.com/bgx-fwcm-twk)|          |
-| T12 |[Fernanda](https://meet.google.com/jpr-ztzj-knu)|          |[Fernanda](https://meet.google.com/jpr-ztzj-knu)|          |[Fernanda](https://meet.google.com/jpr-ztzj-knu)|
-| T34 |         |[Davi](https://meet.google.com/dip-mmyw-xmh)|        |[Davi](https://meet.google.com/dip-mmyw-xmh)|          |
-| T56 |         |          |        |          |          |
-| N12 |[Gregorio](https://meet.google.com/mps-zvrx-ghy)|          |        |          |          |
-| N34 |         |          |        |          |          |-->
+| M34 |         |          |        |          |[Gregorio](meet.google.com/vcb-dxmo-gew)|
+| M56 |[Gregorio](meet.google.com/gjw-ohod-wxn)|          |        |          |          |
+| T12 |         |          |[Rita](meet.google.com/ife-swvx-kti)|          |          |
+| T34 |         |          |        |[Gregorio](meet.google.com/jfw-bant-nas)|          |
+| T56 |         |[Rita](meet.google.com/kso-unuc-wvx)|        |          |          |
+| N12 |         |          |        |          |[Rita](meet.google.com/iog-xvgx-gmi)|
+| N34 |         |          |        |          |          |
 
 ---
 Encontrou algum erro ou tem alguma sugestão? Por favor, comunique-nos mandando um e-mail para o endereço [matematicaelementar@imd.ufrn.br](mailto:matematicaelementar@imd.ufrn.br) com a sua contribuição e identificação com nome e turma. Agradecemos a sua colaboração.
