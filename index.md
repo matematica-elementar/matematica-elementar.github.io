@@ -35,12 +35,12 @@ Horários de atendimento (clique nos nomes para entrar na sala da monitoria no G
 |     | Segunda |   Terça  | Quarta |  Quinta  |   Sexta  |
 |-----|:-------:|:--------:|:------:|:--------:|:--------:|
 | M12 |         |          |        |          |          |
-| M34 |         |          |        |          |[Gregorio](meet.google.com/vcb-dxmo-gew)|
-| M56 |[Gregorio](meet.google.com/gjw-ohod-wxn)|          |        |          |          |
-| T12 |         |          |[Rita](meet.google.com/ife-swvx-kti)|          |          |
-| T34 |         |          |        |[Gregorio](meet.google.com/jfw-bant-nas)|          |
-| T56 |         |[Rita](meet.google.com/kso-unuc-wvx)|        |          |          |
-| N12 |         |          |        |          |[Rita](meet.google.com/iog-xvgx-gmi)|
+| M34 |         |          |        |          |[Gregorio](https://meet.google.com/vcb-dxmo-gew)|
+| M56 |[Gregorio](https://meet.google.com/gjw-ohod-wxn)|          |        |          |          |
+| T12 |         |          |[Rita](https://meet.google.com/ife-swvx-kti)|          |          |
+| T34 |         |          |        |[Gregorio](https://meet.google.com/jfw-bant-nas)|          |
+| T56 |         |[Rita](https://meet.google.com/kso-unuc-wvx)|        |          |          |
+| N12 |         |          |        |          |[Rita](https://meet.google.com/iog-xvgx-gmi)|
 | N34 |         |          |        |          |          |
 
 ---
