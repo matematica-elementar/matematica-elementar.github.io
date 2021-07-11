@@ -36,10 +36,10 @@ Horários de atendimento (clique nos nomes para entrar na sala da monitoria no G
 |-----|:-------:|:--------:|:------:|:--------:|:--------:|
 | M12 |         |          |        |          |          |
 | M34 |         |          |        |          |[Gregorio](http://meet.google.com/vcb-dxmo-gew)|
-| M56 |[Gregorio](http://meet.google.com/gjw-ohod-wxn)|          |        |          |          |
+| M56 |[Gregorio](http://meet.google.com/gjw-ohod-wxn)|[Turma 01](http://meet.google.com/xmj-cunu-xqi)|        |[Turma 01](http://meet.google.com/xmj-cunu-xqi)|          |
 | T12 |         |          |[Rita](http://meet.google.com/djn-jenk-smg)|          |          |
-| T34 |         |          |        |[Gregorio](http://meet.google.com/jfw-bant-nas)|          |
-| T56 |         |[Rita](http://meet.google.com/qxf-sddo-ztk)|        |          |          |
+| T34 |[Turma 02](http://meet.google.com/pwz-btum-yry)|          |[Turma 02](http://meet.google.com/pwz-btum-yry)|[Gregorio](http://meet.google.com/jfw-bant-nas)|          |
+| T56 |[Turma 03](http://meet.google.com/iok-jmjo-vcq)|[Rita](http://meet.google.com/qxf-sddo-ztk)|[Turma 03](http://meet.google.com/iok-jmjo-vcq)|          |          |
 | N12 |         |          |        |          |[Rita](http://meet.google.com/edr-capg-wma)|
 | N34 |         |          |        |          |          |
 
