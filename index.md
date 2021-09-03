@@ -28,7 +28,7 @@ Arquivos dos slides usados em aula:
 
 
 # Monitoria
-Os monitores para o semestre 2021.1 são Gregorio Pinheiro e Rita Cruz.
+O monitor para o semestre 2021.1 é Gregorio Pinheiro.
 
 Horários de atendimento (clique nos nomes para entrar na sala da monitoria no Google Meet):
 
@@ -37,10 +37,10 @@ Horários de atendimento (clique nos nomes para entrar na sala da monitoria no G
 | M12 |         |          |        |          |          |
 | M34 |         |          |        |          |[Gregorio](http://meet.google.com/vcb-dxmo-gew)|
 | M56 |[Gregorio](http://meet.google.com/gjw-ohod-wxn)|[Turma 01](http://meet.google.com/xmj-cunu-xqi)|        |[Turma 01](http://meet.google.com/xmj-cunu-xqi)|          |
-| T12 |         |          |[Rita](http://meet.google.com/djn-jenk-smg)|          |          |
+| T12 |         |          |        |          |          |
 | T34 |[Turma 02](http://meet.google.com/pwz-btum-yry)|          |[Turma 02](http://meet.google.com/pwz-btum-yry)|[Gregorio](http://meet.google.com/jfw-bant-nas)|          |
-| T56 |[Turma 03](http://meet.google.com/iok-jmjo-vcq)|[Rita](http://meet.google.com/qxf-sddo-ztk)|[Turma 03](http://meet.google.com/iok-jmjo-vcq)|          |          |
-| N12 |         |          |        |          |[Rita](http://meet.google.com/edr-capg-wma)|
+| T56 |[Turma 03](http://meet.google.com/iok-jmjo-vcq)|          |[Turma 03](http://meet.google.com/iok-jmjo-vcq)|          |          |
+| N12 |         |          |        |          |          |
 | N34 |         |          |        |          |          |
 
 ---
