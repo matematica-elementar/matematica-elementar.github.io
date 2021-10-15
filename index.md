@@ -8,10 +8,10 @@ Email para contato com professores e monitores: [matematicaelementar@imd.ufrn.br
 As Notas de Aula são o material principal para o acompanhamento da disciplina. Elas são fruto de um projeto de pesquisa coordenado pelo professor Antonio Igor.
 
 Arquivo das Notas de Aula:
-- Notas de Aula - Versão 1.13: [Preview](materiais/notas-de-aula-v1.13.pdf).
+- Notas de Aula - Versão 1.13: [Preview](materiais/notas-de-aula-v1.14.pdf).
 
 Notas de atualização:
-- Atualização das Imagens do Cap. 3 e outras correções.
+- Atualização das listas de exercícios e outras correções de reports.
 
 <!-- # Slides
 Arquivos dos slides usados em aula:
@@ -36,10 +36,10 @@ Horários de atendimento (clique nos nomes para entrar na sala da monitoria no G
 |-----|:-------:|:--------:|:------:|:--------:|:--------:|
 | M12 |         |          |        |          |          |
 | M34 |         |          |        |          |[Gregorio](http://meet.google.com/vcb-dxmo-gew)|
-| M56 |[Gregorio](http://meet.google.com/gjw-ohod-wxn)|[Turma 01](http://meet.google.com/xmj-cunu-xqi)|        |[Turma 01](http://meet.google.com/xmj-cunu-xqi)|          |
+| M56 |[Gregorio](http://meet.google.com/gjw-ohod-wxn)|[Turma 02](http://meet.google.com/skq-gzzk-ygy)|        |[Turma 02](http://meet.google.com/skq-gzzk-ygy)|          |
 | T12 |         |          |        |          |          |
-| T34 |[Turma 02](http://meet.google.com/pwz-btum-yry)|          |[Turma 02](http://meet.google.com/pwz-btum-yry)|[Gregorio](http://meet.google.com/jfw-bant-nas)|          |
-| T56 |[Turma 03](http://meet.google.com/iok-jmjo-vcq)|          |[Turma 03](http://meet.google.com/iok-jmjo-vcq)|          |          |
+| T34 |         |          |        |[Gregorio](http://meet.google.com/jfw-bant-nas)|          |
+| T56 |         |          |        |          |          |
 | N12 |         |          |        |          |          |
 | N34 |         |          |        |          |          |
 
