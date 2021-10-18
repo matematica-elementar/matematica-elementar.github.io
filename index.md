@@ -27,21 +27,39 @@ Arquivos dos slides usados em aula:
 - [ME10 - Funções Trigonométricas](materiais/ME10%20-%20Funções%20Trigonométricas.pdf) -->
 
 
-# Monitoria
-O monitor para o semestre 2021.1 é Gregorio Pinheiro.
+# Monitoria de Matemática Elementar
+Os monitores para o semestre 2021.2 são Esther Wanderley, Gregorio Pinheiro e Paulo Vítor.
 
 Horários de atendimento (clique nos nomes para entrar na sala da monitoria no Google Meet):
 
 |     | Segunda |   Terça  | Quarta |  Quinta  |   Sexta  |
 |-----|:-------:|:--------:|:------:|:--------:|:--------:|
 | M12 |         |          |        |          |          |
-| M34 |         |          |        |          |[Gregorio](http://meet.google.com/vcb-dxmo-gew)|
-| M56 |[Gregorio](http://meet.google.com/gjw-ohod-wxn)|[Turma 02](http://meet.google.com/skq-gzzk-ygy)|        |[Turma 02](http://meet.google.com/skq-gzzk-ygy)|          |
-| T12 |         |          |        |          |          |
-| T34 |         |          |        |[Gregorio](http://meet.google.com/jfw-bant-nas)|          |
-| T56 |         |          |        |          |          |
-| N12 |         |          |        |          |          |
+| M34 |         |          |        |          |          |
+| M56 |         |[Esther](http://meet.google.com/wpo-qojn-pdf)|        |[Gregorio*](http://meet.google.com/skq-gzzk-ygy)|          |
+| T12 |[Paulo (T23)](http://meet.google.com/gpi-tyhc-cjd)|[Turma 02](http://meet.google.com/skq-gzzk-ygy)|        |[Turma 02](http://meet.google.com/skq-gzzk-ygy)|[Esther](http://meet.google.com/rye-kaju-gyx)|
+| T34 |         |          |[Gregorio*](http://meet.google.com/skq-gzzk-ygy)|          |          |
+| T56 |[Esther*](http://meet.google.com/skq-gzzk-ygy)|          |        |          |          |
+| N12 |[Gregorio*](http://meet.google.com/skq-gzzk-ygy)|          |[Paulo](http://meet.google.com/pqw-qwqh-erx)|          |[Paulo](http://meet.google.com/pqw-qwqh-erx)|
 | N34 |         |          |        |          |          |
+
+---
+
+# Monitoria de Cálculo Diferencial e Integral I
+O monitor para o semestre 2021.2 é Tales Rocha.
+
+Horários de atendimento (clique nos nomes para entrar na sala da monitoria no Google Meet):
+
+|     | Segunda |   Terça  | Quarta |  Quinta  |   Sexta  |   Sábado |
+|-----|:-------:|:--------:|:------:|:--------:|:--------:|:--------:|
+| M12 |         |          |        |          |          |          |
+| M34 |         |[Tales](http://meet.google.com/zcd-uayo-dbw)|        |          |          |          |
+| M56 |[Turma 01](http://meet.google.com/anh-jbbg-tps)|          |[Turma 01](http://meet.google.com/anh-jbbg-tps)|          |[Turma 01](http://meet.google.com/anh-jbbg-tps)|          |
+| T12 |         |          |        |          |          |          |
+| T34 |         |          |        |          |          |[Tales](http://meet.google.com/zcd-uayo-dbw)|
+| T56 |         |          |        |          |          |          |
+| N12 |         |          |        |[Tales (N23)](http://meet.google.com/zcd-uayo-dbw)|          |          |
+| N34 |         |          |        |          |          |          |
 
 ---
 Encontrou algum erro ou tem alguma sugestão? Por favor, comunique-nos mandando um e-mail para o endereço [matematicaelementar@imd.ufrn.br](mailto:matematicaelementar@imd.ufrn.br) com a sua contribuição e identificação com nome e turma. Agradecemos a sua colaboração.
