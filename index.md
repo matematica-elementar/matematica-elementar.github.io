@@ -53,8 +53,8 @@ Horários de atendimento (clique nos nomes para entrar na sala da monitoria no G
 |     | Segunda |   Terça  | Quarta |  Quinta  |   Sexta  |   Sábado |
 |-----|:-------:|:--------:|:------:|:--------:|:--------:|:--------:|
 | M12 |         |          |        |          |          |          |
-| M34 |         |[Tales](http://meet.google.com/zcd-uayo-dbw)|        |          |          |          |
-| M56 |[Turma 01](http://meet.google.com/anh-jbbg-tps)|          |[Turma 01](http://meet.google.com/anh-jbbg-tps)|          |[Turma 01](http://meet.google.com/anh-jbbg-tps)|          |
+| M34 |         |          |        |          |          |          |
+| M56 |[Turma 01](http://meet.google.com/anh-jbbg-tps)|[Tales](http://meet.google.com/zcd-uayo-dbw)|[Turma 01](http://meet.google.com/anh-jbbg-tps)|          |[Turma 01](http://meet.google.com/anh-jbbg-tps)|          |
 | T12 |         |          |        |          |          |          |
 | T34 |         |          |        |          |          |[Tales](http://meet.google.com/zcd-uayo-dbw)|
 | T56 |         |          |        |          |          |          |
