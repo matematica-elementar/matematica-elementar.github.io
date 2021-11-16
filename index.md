@@ -36,11 +36,11 @@ Horários de atendimento (clique nos nomes para entrar na sala da monitoria no G
 |-----|:-------:|:--------:|:------:|:--------:|:--------:|
 | M12 |         |          |        |          |          |
 | M34 |         |          |        |          |          |
-| M56 |         |[Esther](http://meet.google.com/wpo-qojn-pdf)|        |[Gregorio](http://meet.google.com/xfv-fuzh-mug)|          |
+| M56 |         |          |        |[Gregorio](http://meet.google.com/xfv-fuzh-mug)|          |
 | T12 |[Paulo (T23)](http://meet.google.com/gpi-tyhc-cjd)|[Turma 02](http://meet.google.com/skq-gzzk-ygy)|        |[Turma 02](http://meet.google.com/skq-gzzk-ygy)|[Esther](http://meet.google.com/rye-kaju-gyx)|
 | T34 |         |          |[Gregorio](http://meet.google.com/nvf-hukt-bwf)|          |          |
 | T56 |[Esther](http://meet.google.com/tgu-rasx-aaw)|          |        |          |          |
-| N12 |[Gregorio](http://meet.google.com/spe-gmpb-dkw)|          |[Paulo](http://meet.google.com/pqw-qwqh-erx)|          |[Paulo](http://meet.google.com/pqw-qwqh-erx)|
+| N12 |[Gregorio](http://meet.google.com/spe-gmpb-dkw)|[Esther](http://meet.google.com/wpo-qojn-pdf)|[Paulo](http://meet.google.com/pqw-qwqh-erx)|          |[Paulo](http://meet.google.com/pqw-qwqh-erx)|
 | N34 |         |          |        |          |          |
 
 ---
