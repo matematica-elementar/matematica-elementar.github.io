@@ -13,7 +13,7 @@ Arquivo das Notas de Aula:
 Notas de atualização:
 - Atualização das listas de exercícios e outras correções de reports.
 
-<!-- # Slides
+# Slides
 Arquivos dos slides usados em aula:
 - [ME01 - Conjuntos](materiais/ME01%20-%20Conjuntos.pdf)
 - [ME02 - Conjuntos Numéricos e Potenciação](materiais/ME02%20-%20Conjuntos%20Numéricos%20e%20Potenciação.pdf)
@@ -24,10 +24,10 @@ Arquivos dos slides usados em aula:
 - [ME07 - Funções Reais e Gráficos](materiais/ME07%20-%20Funções%20Reais%20e%20Gráficos.pdf)
 - [ME08 - Funções Polinomiais](materiais/ME08%20-%20Funções%20Polinomiais.pdf)
 - [ME09 - Funções Exponenciais e Logarítmicas](materiais/ME09%20-%20Funções%20Exponenciais%20e%20Logarítmicas.pdf)
-- [ME10 - Funções Trigonométricas](materiais/ME10%20-%20Funções%20Trigonométricas.pdf) -->
+- [ME10 - Funções Trigonométricas](materiais/ME10%20-%20Funções%20Trigonométricas.pdf)
 
 
-# Monitoria de Matemática Elementar
+<!-- # Monitoria de Matemática Elementar
 Os monitores para o semestre 2021.2 são Esther Wanderley, Gregorio Pinheiro e Paulo Vítor.
 
 Horários de atendimento (clique nos nomes para entrar na sala da monitoria no Google Meet):
@@ -61,5 +61,5 @@ Horários de atendimento (clique nos nomes para entrar na sala da monitoria no G
 | N12 |         |          |        |[Tales (N23)](http://meet.google.com/zcd-uayo-dbw)|          |          |
 | N34 |         |          |        |          |          |          |
 
----
+--- -->
 Encontrou algum erro ou tem alguma sugestão? Por favor, comunique-nos mandando um e-mail para o endereço [matematicaelementar@imd.ufrn.br](mailto:matematicaelementar@imd.ufrn.br) com a sua contribuição e identificação com nome e turma. Agradecemos a sua colaboração.
