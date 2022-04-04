@@ -27,25 +27,25 @@ Arquivos dos slides usados em aula:
 - [ME10 - Funções Trigonométricas](materiais/ME10%20-%20Funções%20Trigonométricas.pdf)
 
 
-<!-- # Monitoria de Matemática Elementar
-Os monitores para o semestre 2021.2 são Esther Wanderley, Gregorio Pinheiro e Paulo Vítor.
+ # Monitoria de Matemática Elementar
+Os monitores para o semestre 2021.2 são Dante Augusto, Esther Wanderley, e Paulo Vítor. As monitorias presenciais serão na sala A220 e as remotas possuem links para entrada para o Google Meet no nome do respectivo monitor.
 
-Horários de atendimento (clique nos nomes para entrar na sala da monitoria no Google Meet):
+Horários de atendimento:
 
-|     | Segunda |   Terça  | Quarta |  Quinta  |   Sexta  |
-|-----|:-------:|:--------:|:------:|:--------:|:--------:|
-| M12 |         |          |        |          |          |
-| M34 |         |          |        |          |          |
-| M56 |         |          |        |[Gregorio](http://meet.google.com/xfv-fuzh-mug)|          |
-| T12 |[Paulo (T23)](http://meet.google.com/gpi-tyhc-cjd)|[Turma 02](http://meet.google.com/xog-jjer-aff)|        |[Turma 02](http://meet.google.com/xog-jjer-aff)|[Esther](http://meet.google.com/rye-kaju-gyx)|
-| T34 |         |          |[Gregorio](http://meet.google.com/nvf-hukt-bwf)|          |          |
-| T56 |[Esther](http://meet.google.com/tgu-rasx-aaw)|          |        |          |          |
-| N12 |[Gregorio](http://meet.google.com/spe-gmpb-dkw)|[Esther](http://meet.google.com/wpo-qojn-pdf)|[Paulo](http://meet.google.com/pqw-qwqh-erx)|          |[Paulo](http://meet.google.com/pqw-qwqh-erx)|
-| N34 |         |          |        |          |          |
+|     | Segunda |   Terça  | Quarta |  Quinta  |   Sexta  | Sábado | 
+|-----|:-------:|:--------:|:------:|:--------:|:--------:|:------:|
+| M12 |[Esther](http://meet.google.com/ynq-bkxv-ygr)|          |        |          |          |        |
+| M34 |         |          |        |          |          |        |
+| M56 |         |          |Dante - A220|          |Esther - A220|        |
+| T12 |         |Dante - A220|        |Esther - A220|          |[Dante](http://meet.google.com/fwe-cppa-ehu)|
+| T34 |         |          |        |          |Paulo - A220|        |
+| T56 |         |          |        |          |          |        |
+| N12 |         |[Paulo](http://meet.google.com/bkq-whpk-cfn)|        |[Paulo](http://meet.google.com/bkq-whpk-cfn)|          |        |
+| N34 |         |          |        |          |          |        |
 
 ---
 
-# Monitoria de Cálculo Diferencial e Integral I
+<!-- # Monitoria de Cálculo Diferencial e Integral I
 O monitor para o semestre 2021.2 é Tales Rocha.
 
 Horários de atendimento (clique nos nomes para entrar na sala da monitoria no Google Meet):
