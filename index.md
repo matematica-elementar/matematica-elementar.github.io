@@ -27,7 +27,7 @@ Arquivos dos slides usados em aula:
 - [ME10 - Funções Trigonométricas](materiais/ME10%20-%20Funções%20Trigonométricas.pdf)
 
 
- # Monitoria de Matemática Elementar
+# Monitoria de Matemática Elementar
 Os monitores para o semestre 2021.2 são Dante Augusto, Esther Wanderley, e Paulo Vítor. As monitorias presenciais serão na sala A220 e as remotas possuem links para entrada para o Google Meet no nome do respectivo monitor.
 
 Horários de atendimento:
