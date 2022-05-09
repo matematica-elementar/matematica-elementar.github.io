@@ -36,10 +36,10 @@ Horários de atendimento:
 |-----|:-------:|:--------:|:------:|:--------:|:--------:|:------:|
 | M12 |[Esther](http://meet.google.com/ynq-bkxv-ygr)|          |        |          |          |        |
 | M34 |         |          |        |          |          |        |
-| M56 |         |          |Dante - A220|          |Esther - A220|        |
+| M56 |Dante - A220|          |Dante - A220|          |Esther - A220|        |
 | T12 |         |Dante - A220|        |Esther - A220|          |[Dante](http://meet.google.com/fwe-cppa-ehu)|
-| T34 |         |          |        |          |Paulo - A220|        |
-| T56 |         |          |        |          |          |        |
+| T34 |         |          |Paulo - A220|          |Paulo - A220|        |
+| T56 |         |Esther - A220|        |          |          |        |
 | N12 |         |[Paulo](http://meet.google.com/bkq-whpk-cfn)|        |[Paulo](http://meet.google.com/bkq-whpk-cfn)|          |        |
 | N34 |         |          |        |          |          |        |
 
