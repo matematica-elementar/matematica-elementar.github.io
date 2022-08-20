@@ -28,38 +28,56 @@ Arquivos dos slides usados em aula:
 
 
 # Monitoria de Matemática Elementar
-Os monitores para o semestre 2021.2 são Dante Augusto, Esther Wanderley, e Paulo Vítor. As monitorias presenciais serão na sala A220 e as remotas possuem links para entrada para o Google Meet no nome do respectivo monitor.
+Os monitores para o semestre 2022.2 são Dante Augusto e Wisla Argolo. As monitorias presenciais serão na sala A220 e as remotas possuem links para entrada para o Google Meet no nome do respectivo monitor.
 
 Horários de atendimento:
 
 |     | Segunda |   Terça  | Quarta |  Quinta  |   Sexta  | Sábado | 
 |-----|:-------:|:--------:|:------:|:--------:|:--------:|:------:|
-| M12 |[Esther](http://meet.google.com/ynq-bkxv-ygr)|          |        |          |          |        |
+| M12 |         |          |        |          |          |        |
 | M34 |         |          |        |          |          |        |
-| M56 |Dante - A220|          |Dante e Wisla - A220|          |Esther e Wisla - A220|        |
-| T12 |         |Dante e Wisla - A220|        |Esther - A220|          |[Dante](http://meet.google.com/fwe-cppa-ehu)|
-| T34 |         |          |Paulo e Wisla - A220|          |Paulo - A220|        |
-| T56 |         |Esther - A220|        |          |          |        |
-| N12 |         |[Paulo](http://meet.google.com/bkq-whpk-cfn)|        |[Paulo](http://meet.google.com/bkq-whpk-cfn)|          |        |
+| M56 |         |          |        |          |          |        |
+| T12 |         |          |        |          |          |        |
+| T34 |         |          |        |          |          |        |
+| T56 |         |          |        |          |          |        |
+| N12 |         |          |        |          |          |        |
 | N34 |         |          |        |          |          |        |
 
 ---
 
-<!-- # Monitoria de Cálculo Diferencial e Integral I
-O monitor para o semestre 2021.2 é Tales Rocha.
+# Monitoria de Cálculo Diferencial e Integral I
+Os monitores para o semestre 2022.2 são Esther Wanderley e Henrique Fouquet. As monitorias presenciais serão na sala A220 e as remotas possuem links para entrada para o Google Meet no nome do respectivo monitor.
 
-Horários de atendimento (clique nos nomes para entrar na sala da monitoria no Google Meet):
+
 
 |     | Segunda |   Terça  | Quarta |  Quinta  |   Sexta  |   Sábado |
 |-----|:-------:|:--------:|:------:|:--------:|:--------:|:--------:|
 | M12 |         |          |        |          |          |          |
 | M34 |         |          |        |          |          |          |
-| M56 |[Turma 01](http://meet.google.com/sys-avia-vbh)|[Tales](http://meet.google.com/zcd-uayo-dbw)|[Turma 01](http://meet.google.com/sys-avia-vbh)|          |[Turma 01](http://meet.google.com/sys-avia-vbh)|          |
-| T12 |         |          |        |          |          |          |
-| T34 |         |          |        |          |          |[Tales](http://meet.google.com/zcd-uayo-dbw)|
-| T56 |         |          |        |          |          |          |
-| N12 |         |          |        |[Tales (N23)](http://meet.google.com/zcd-uayo-dbw)|          |          |
+| M56 |         |          |        |          |          |          |
+| T12 |Esther - A220|Esther - A220|Henrique - A220|          |          |          |
+| T34 |         |          |        |Henrique - A220|          |          |
+| T56 |         |[Henrique](http://meet.google.com/tyy-rycs-akz)          |        |[Esther](http://meet.google.com/abd-sezu-rhi)|          |          |
+| N12 |         |          |        |          |          |          |
 | N34 |         |          |        |          |          |          |
 
---- -->
+--- 
+
+# Monitoria de Vetores e Geometria Analítica
+O monitor para o semestre 2022.2 é Henrique Fouquet. As monitorias presenciais serão na sala A220 e as remotas possuem links para entrada para o Google Meet no nome do respectivo monitor.
+
+
+
+|     | Segunda |   Terça  | Quarta |  Quinta  |   Sexta  |   Sábado |
+|-----|:-------:|:--------:|:------:|:--------:|:--------:|:--------:|
+| M12 |         |          |        |          |          |          |
+| M34 |         |          |        |          |          |          |
+| M56 |         |          |        |          |          |          |
+| T12 |         |          |Henrique - A220|          |          |          |
+| T34 |         |          |        |Henrique - A220|          |          |
+| T56 |         |[Henrique](http://meet.google.com/tyy-rycs-akz)          |        |          |          |          |
+| N12 |         |          |        |          |          |          |
+| N34 |         |          |        |          |          |          |
+
+--- 
 Encontrou algum erro ou tem alguma sugestão? Por favor, comunique-nos mandando um e-mail para o endereço [matematicaelementar@imd.ufrn.br](mailto:matematicaelementar@imd.ufrn.br) com a sua contribuição e identificação com nome e turma. Agradecemos a sua colaboração.
