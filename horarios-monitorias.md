@@ -1,7 +1,3 @@
-layout: page
-title: "Horários de Monitorias"
-permalink: /horarios-monitorias/
-
 # Monitoria de Matemática Elementar
 Os monitores para o semestre 2022.2 são Dante Augusto e Wisla Argolo. As monitorias presenciais serão na sala A220 e as remotas possuem links para entrada para o Google Meet no nome do respectivo monitor.
 
