@@ -11,12 +11,12 @@ Horários de atendimento:
 |     | Segunda |   Terça  | Quarta |  Quinta  |   Sexta  | Sábado | 
 |-----|:-------:|:--------:|:------:|:--------:|:--------:|:------:|
 | M12 |         |          |        |          |          |        |
-| M34 |         |          |        |          |          |        |
-| M56 |         |          |        |          |          |        |
-| T12 |         |          |        |          |          |        |
-| T34 |         |          |        |          |          |        |
+| M34 |         |Tobias - A220|        |          |          |        |
+| M56 |         |          |        |Pedro - A220|          |        |
+| T12 |Pedro - A220|          |Tobias - A220|          |Wisla - A220|        |
+| T34 |         |          |        |Wisla - A220|Pedro - A220|        |
 | T56 |         |          |        |          |          |        |
-| N12 |         |          |        |          |          |        |
+| N12 |         |[Wisla](http://meet.google.com/yqx-ymmn-abp)|        |[Tobias](http://meet.google.com/kkd-gmft-oog)|          |        |
 | N34 |         |          |        |          |          |        |
 
 ---
@@ -33,7 +33,7 @@ Os monitores para o semestre 2022.2 são Esther Wanderley e Henrique Fouquet. As
 | M56 |         |          |        |          |          |          |
 | T12 |Esther - A220|Esther - A220|Henrique - A220|          |          |          |
 | T34 |         |          |        |Henrique - A220|          |          |
-| T56 |         |[Henrique](http://meet.google.com/tyy-rycs-akz)          |        |[Esther](http://meet.google.com/abd-sezu-rhi)|          |          |
+| T56 |         |[Henrique](http://meet.google.com/tyy-rycs-akz)|        |[Esther](http://meet.google.com/abd-sezu-rhi)|          |          |
 | N12 |         |          |        |          |          |          |
 | N34 |         |          |        |          |          |          |
 
