@@ -33,8 +33,8 @@ Os monitores para o semestre 2022.2 são Esther Wanderley e Henrique Fouquet. As
 | M56 |         |          |        |          |          |          |
 | T12 |Esther - A220|Esther - A220|Henrique - A220|          |          |          |
 | T34 |         |          |        |Henrique - A220|          |          |
-| T56 |         |[Henrique](http://meet.google.com/tyy-rycs-akz)|        |[Esther](http://meet.google.com/abd-sezu-rhi)|          |          |
-| N12 |         |          |        |          |          |          |
+| T56 |         |          |        |[Esther](http://meet.google.com/abd-sezu-rhi)|          |          |
+| N12 |         |[Henrique](http://meet.google.com/tyy-rycs-akz)|        |          |          |          |
 | N34 |         |          |        |          |          |          |
 
 --- 
@@ -51,8 +51,8 @@ O monitor para o semestre 2022.2 é Henrique Fouquet. As monitorias presenciais 
 | M56 |         |          |        |          |          |          |
 | T12 |         |          |Henrique - A220|          |          |          |
 | T34 |         |          |        |Henrique - A220|          |          |
-| T56 |         |[Henrique](http://meet.google.com/tyy-rycs-akz)          |        |          |          |          |
-| N12 |         |          |        |          |          |          |
+| T56 |         |          |        |          |          |          |
+| N12 |         |[Henrique](http://meet.google.com/tyy-rycs-akz)|        |          |          |          |
 | N34 |         |          |        |          |          |          |
 
 --- 
