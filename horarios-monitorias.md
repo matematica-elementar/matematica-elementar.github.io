@@ -73,4 +73,23 @@ O monitor para o semestre 2022.2 é Adriel Lucas. As monitorias presenciais ser�
 | N34 |         |          |        |          |          |          |
 
 --- 
+# Monitoria de FMC
+Os monitores para o semestre 2022.2 são Dante Augusto (FMC1) e Tanhleno Teixeira (FMC2). As monitorias presenciais serão na sala A220 e as remotas possuem links para entrada para o Google Meet no nome do respectivo monitor.
+
+Para os horários da monitoria de FMC oferecidos pelo projeto do professor Thanos, [acesse aqui](https://fmc.imd.ufrn.br).
+
+
+
+|     | Segunda |   Terça  | Quarta |  Quinta  |   Sexta  |   Sábado |
+|-----|:-------:|:--------:|:------:|:--------:|:--------:|:--------:|
+| M12 |         |          |        |          |          |          |
+| M34 |         |          |        |          |          |[Tanhleno (8h às 9h30)](https://meet.google.com/rkx-thso-mze)|
+| M56 |         |          |        |          |          |          |
+| T12 |         |Tanhleno - A220|        |Tanhleno - A220|          |          |
+| T34 |Dante - A220|Dante - A220|        |Dante - A220|          |          |
+| T56 |         |          |        |          |          |          |
+| N12 |         |          |        |          |          |          |
+| N34 |         |          |        |          |          |          |
+
+--- 
 Encontrou algum erro ou tem alguma sugestão? Por favor, comunique-nos mandando um e-mail para o endereço [matematicaelementar@imd.ufrn.br](mailto:matematicaelementar@imd.ufrn.br) com a sua contribuição e identificação com nome e turma. Agradecemos a sua colaboração.
