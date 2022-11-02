@@ -85,9 +85,9 @@ Para os horários da monitoria de FMC oferecidos pelo projeto do professor Thano
 | M12 |         |          |        |          |          |          |
 | M34 |         |          |        |          |          |[Tanhleno (8h às 9h30)](https://meet.google.com/rkx-thso-mze)|
 | M56 |         |          |        |          |          |          |
-| T12 |         |Tanhleno - A220|        |Tanhleno - A220|          |          |
+| T12 |         |          |        |Tanhleno - A220|          |          |
 | T34 |Dante - A220|Dante - A220|        |Dante - A220|          |          |
-| T56 |         |          |        |          |          |          |
+| T56 |Tanhleno - A220|          |        |          |          |          |
 | N12 |         |          |        |          |          |          |
 | N34 |         |          |        |          |          |          |
 
