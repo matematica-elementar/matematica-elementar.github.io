@@ -11,10 +11,10 @@ Horários de atendimento:
 |     | Segunda |   Terça  | Quarta |  Quinta  |   Sexta  | Sábado | 
 |-----|:-------:|:--------:|:------:|:--------:|:--------:|:------:|
 | M12 |         |          |        |          |          |        |
-| M34 |         |Tobias - A220|        |          |          |        |
-| M56 |         |          |        |Pedro - A220|          |        |
+| M34 |         |          |        |          |          |        |
+| M56 |         |Pedro - A220|        |Pedro - A220|          |        |
 | T12 |Pedro - A220|          |Tobias - A220|          |Wisla - A220|        |
-| T34 |         |          |        |Wisla - A220|Pedro - A220|        |
+| T34 |         |          |        |Wisla - A220|Tobias - A220|        |
 | T56 |         |          |        |          |          |        |
 | N12 |         |[Wisla](http://meet.google.com/yqx-ymmn-abp)|        |[Tobias](http://meet.google.com/kkd-gmft-oog)|          |        |
 | N34 |         |          |        |          |          |        |
