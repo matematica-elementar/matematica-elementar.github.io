@@ -15,6 +15,16 @@ Notas de atualização:
 
 # Slides
 Arquivos dos slides usados em aula:
+- MB01 - Conjuntos
+- MB02.1 - Equações e Inequações
+- MB02.2 - Equações e Inequações
+- MB03 - Matrizes e Sistemas Lineares
+- MB04.1 - Funções Reais e Gráficos
+- MB04.2 - Funções Reais e Gráficos
+- MB05 - Funções Polinomiais
+- MB06 - Funções Exponenciais e Logarítmicas
+- MB07 - Funções Trigonométricas
+<!--
 - [ME01 - Conjuntos](materiais/ME01%20-%20Conjuntos.pdf)
 - [ME02 - Conjuntos Numéricos e Potenciação](materiais/ME02%20-%20Conjuntos%20Numéricos%20e%20Potenciação.pdf)
 - [ME03 - Equações e Inequações](materiais/ME03%20-%20Equações%20e%20Inequações.pdf)
@@ -24,7 +34,7 @@ Arquivos dos slides usados em aula:
 - [ME07 - Funções Reais e Gráficos](materiais/ME07%20-%20Funções%20Reais%20e%20Gráficos.pdf)
 - [ME08 - Funções Polinomiais](materiais/ME08%20-%20Funções%20Polinomiais.pdf)
 - [ME09 - Funções Exponenciais e Logarítmicas](materiais/ME09%20-%20Funções%20Exponenciais%20e%20Logarítmicas.pdf)
-- [ME10 - Funções Trigonométricas](materiais/ME10%20-%20Funções%20Trigonométricas.pdf)
+- [ME10 - Funções Trigonométricas](materiais/ME10%20-%20Funções%20Trigonométricas.pdf) -->
 
 # Horários de Monitorias 
 
