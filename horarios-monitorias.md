@@ -4,7 +4,7 @@
     theme: jekyll-theme-cayman
 ---
 # Monitoria de Matemática Elementar
-Os monitores para o semestre 2023.1 são Artur Revorêdo, Dante Augusto, Esther Wanderley, Pedro Pinho, Raquel e Wisla Argolo. As monitorias presenciais serão na sala A220 e as remotas via servidor do Discord.
+Os monitores para o semestre 2023.1 são Artur Revorêdo, Dante Augusto, Esther Wanderley, Pedro Pinho, Raquel e Wisla Argolo. As monitorias presenciais serão na sala A220 e as remotas via [servidor do Discord](https://discord.gg/2YgTPJjk5Q).
 
 Horários de atendimento:
 
@@ -14,7 +14,7 @@ Horários de atendimento:
 | M34 |         |          |        |          |          |        |
 | M56 |Raquel - A220|        |        |Wisla - A220|Monitoria de exercícios|        |
 | T12 |Esther - A220|Pedro - A220|Esther - A220|Artur - A220|Monitoria de exercícios|        |
-| T34 |         |          |Dante - A220|         |Tobias - A220|        |
+| T34 |         |          |Dante - A220|         |          |        |
 | T56 |         |Dante - A220|Artur - A220|          |          |        |
 | N12 |         |          |        |          |          |        |
 | N34 |         |          |        |          |          |        |
