@@ -12,8 +12,8 @@ Horários de atendimento:
 |-----|:-------:|:--------:|:------:|:--------:|:--------:|:------:|
 | M12 |         |          |        |          |          |        |
 | M34 |         |          |        |          |          |        |
-| M56 |Raquel - A220|        |        |Wisla - A220|Monitoria de exercícios|        |
-| T12 |Esther - A220|Pedro - A220|Esther - A220|Artur - A220|Monitoria de exercícios|        |
+| M56 |Raquel - A220|        |        |Wisla - A220|Monitoria de exercícios - B204|        |
+| T12 |Esther - A220|Pedro - A220|Esther - A220|Artur - A220|Monitoria de exercícios - A306|        |
 | T34 |         |          |Dante - A220|         |          |        |
 | T56 |         |Dante - A220|Artur - A220|          |          |        |
 | N12 |         |          |        |          |          |        |
