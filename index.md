@@ -24,6 +24,7 @@ Arquivos dos slides usados em aula:
 - MB05 - Funções Polinomiais
 - MB06 - Funções Exponenciais e Logarítmicas
 - MB07 - Funções Trigonométricas
+
 <!--  [ME01 - Conjuntos](materiais/ME01%20-%20Conjuntos.pdf)
 - [ME02 - Conjuntos Numéricos e Potenciação](materiais/ME02%20-%20Conjuntos%20Numéricos%20e%20Potenciação.pdf)
 - [ME03 - Equações e Inequações](materiais/ME03%20-%20Equações%20e%20Inequações.pdf)
