@@ -16,7 +16,7 @@ Notas de atualização:
 # Slides
 Arquivos dos slides usados em aula:
 - [MB01 - Conjuntos](materiais/MB01_Conjuntos.pdf)
-- MB02.1 - Equações e Inequações
+- [MB02.1 - Equações e Inequações](materiais/MB02_Equacoes_e_inequacoes_pt1.pdf)
 - MB02.2 - Equações e Inequações
 - MB03 - Matrizes e Sistemas Lineares
 - MB04.1 - Funções Reais e Gráficos
