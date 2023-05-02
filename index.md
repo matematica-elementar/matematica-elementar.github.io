@@ -18,7 +18,7 @@ Arquivos dos slides usados em aula:
 - [MB01 - Conjuntos](materiais/MB01_Conjuntos.pdf)
 - [MB02.1 - Equações e Inequações](materiais/MB02_Equacoes_e_inequacoes_pt1.pdf)
 - [MB02.2 - Equações e Inequações](materiais/MB02_Equacoes_e_inequacoes_pt2.pdf)
-- [MB03 - Matrizes e Sistemas Lineares (Versão preliminar com exercícios)](materiais/MB03_Matrizes_e_Sistemas.pdf)
+- [MB03 - Matrizes e Sistemas Lineares (Versão faltando completar os exercícios)](materiais/MB03_Matrizes_e_Sistemas.pdf)
 - MB04.1 - Funções Reais e Gráficos
 - MB04.2 - Funções Reais e Gráficos
 - MB05 - Funções Polinomiais
