@@ -21,7 +21,7 @@ Arquivos dos slides usados em aula:
 - [MB03 - Matrizes e Sistemas Lineares (Versão "final" 1)](materiais/MB03_Matrizes_e_Sistemas.pdf)
 - [MB04.1 - Funções Reais e Gráficos](materiais/MB04_Funcoes_Reais_e_Graficos_pt1.pdf)
 - [MB04.2 - Funções Reais e Gráficos](materiais/MB04_Funcoes_Reais_e_Graficos_pt2.pdf)
-- MB05 - Funções Polinomiais
+- [MB05 - Funções Polinomiais](materiais/MB05_Funcoes_polinomiais.pdf)
 - MB06 - Funções Exponenciais e Logarítmicas
 - MB07 - Funções Trigonométricas
 
