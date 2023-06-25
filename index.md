@@ -23,7 +23,7 @@ Arquivos dos slides usados em aula:
 - [MB04.2 - Funções Reais e Gráficos](materiais/MB04_Funcoes_Reais_e_Graficos_pt2.pdf)
 - [MB05 - Funções Polinomiais](materiais/MB05_Funcoes_polinomiais.pdf)
 - [MB06 - Funções Exponenciais e Logarítmicas](materiais/MB06_Funcoes_exponenciais_e_logaritmicas.pdf)
-- MB07 - Funções Trigonométricas
+- [MB07 - Funções Trigonométricas](materiais/MB07_Funcoes_trigonometricas.pdf)
 
 <!--  [ME01 - Conjuntos](materiais/ME01%20-%20Conjuntos.pdf)
 - [ME02 - Conjuntos Numéricos e Potenciação](materiais/ME02%20-%20Conjuntos%20Numéricos%20e%20Potenciação.pdf)
