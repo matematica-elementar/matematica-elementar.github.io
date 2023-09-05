@@ -18,7 +18,7 @@ Horários de atendimento:
 | M34 |         |          |        |Daniel - A220|Dante - A220|        |
 | M56 |Artur - A220|Dante - A220|Raquel - A220|Pedro - A220|          |        |
 | T12 |Pedro - A220|Gabi - A220|Paz - A220|          |Paz - A220|        |
-| T34 |         |          |        |         |          |Daniel - A220|
+| T34 |         |          |        |         |Daniel - A220|        |
 | T56 |         |Artur - A220|Gabi - A220|Raquel - A220|          |        |
 | N12 |         |          |        |          |          |        |
 | N34 |         |          |        |          |          |        |
