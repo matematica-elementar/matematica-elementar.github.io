@@ -6,7 +6,7 @@
 # Monitoria de Matemática Elementar
 Os monitores para o semestre 2023.2 são Artur Revorêdo, Daniel Coelho, Dante Augusto, Gabrielle (Gabi) Borja, María Paz, Pedro Pinho e Raquel Freire. As monitorias presenciais serão na sala A220 e as remotas via servidor do Discord.
 
-- [Servidor do Discord](https://discord.gg/2YgTPJjk5Q)
+- [Servidor do Discord](https://discord.gg/2YgTPJjk5Q) (EM MANUTENÇÃO! AGUARDE AVISO PARA PODER ENTRAR.)
 
 - [Tutorial para iniciantes no Discord](materiais/Tutorial_Discord_Matemtica_Elementar.pdf)
 
