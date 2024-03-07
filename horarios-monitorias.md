@@ -4,7 +4,7 @@
     theme: jekyll-theme-cayman
 ---
 # Monitoria de Matemática Elementar
-Os monitores para o semestre 2023.2 são Artur Revorêdo, Gabrielle (Gabi) Borja, Mariana Timbó, María Paz e Pedro Pinho. As monitorias presenciais serão na sala A220 e as remotas via servidor do Discord.
+Os monitores para o semestre 2024.1 são Artur Revorêdo, Gabrielle (Gabi) Borja, Mariana Timbó, María Paz e Pedro Pinho. As monitorias presenciais serão na sala A220 e as remotas via servidor do Discord.
 
 - [Servidor do Discord](https://discord.gg/2YgTPJjk5Q) (EM MANUTENÇÃO! AGUARDE AVISO PARA PODER ENTRAR.)
 
