@@ -4,9 +4,9 @@
     theme: jekyll-theme-cayman
 ---
 # Monitoria de Matemática Elementar
-Os monitores para o semestre 2024.1 são Artur Revorêdo, Gabrielle (Gabi) Borja, Mariana Timbó, María Paz e Pedro Pinho. As monitorias presenciais serão na sala A220 e as remotas via servidor do Discord.
+Os monitores para o semestre 2024.1 são Gabrielle (Gabi) Borja, Mariana Timbó, María Paz e Pedro Pinho. As monitorias presenciais serão na sala A220 e as remotas via servidor do Discord.
 
-- [Servidor do Discord](https://discord.gg/2YgTPJjk5Q) (EM MANUTENÇÃO! AGUARDE AVISO PARA PODER ENTRAR.)
+- [Servidor do Discord](https://discord.gg/CKqCWsv7pT) (EM MANUTENÇÃO! AGUARDE AVISO PARA PODER ENTRAR.)
 
 - [Tutorial para iniciantes no Discord](materiais/Tutorial_Discord_Matemtica_Elementar.pdf)
 
@@ -16,8 +16,8 @@ Horários de atendimento:
 |-----|:-------:|:--------:|:------:|:--------:|:--------:|:------:|
 | M12 |         |          |        |          |          |        |
 | M34 |         |          |        |          |          |        |
-| M56 |Pedro - A220|Artur - A220|Paz - A220|Mariana - A220|Gabi - A220|        |
-| T12 |         |Pedro - A220|Mariana - A220|Artur - A220|          |        |
+| M56 |Pedro - A220|          |Paz - A220|Mariana - A220|Gabi - A220|        |
+| T12 |         |Pedro - A220|Mariana - A220|          |          |        |
 | T34 |         |          |        |          |Paz - A220|        |
 | T56 |Gabi - A220|          |        |          |          |        |
 | N12 |         |          |        |          |          |        |
