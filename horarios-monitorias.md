@@ -8,7 +8,7 @@ Os monitores para o semestre 2024.1 são Gabrielle (Gabi) Borja, Mariana Timbó,
 
 - [Servidor do Discord](https://discord.gg/CKqCWsv7pT) (EM MANUTENÇÃO! AGUARDE AVISO PARA PODER ENTRAR.)
 
-- [Tutorial para iniciantes no Discord](materiais/Tutorial_Discord_Matemtica_Elementar.pdf)
+- [Tutorial para iniciantes no Discord](materiais/Tutorial_Discord_Matematica_Elementar.pdf)
 
 Horários de atendimento:
 
