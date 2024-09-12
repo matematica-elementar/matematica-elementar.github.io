@@ -38,7 +38,8 @@ Arquivos dos slides usados em aula:
 
 # Horários de Monitorias 
 
-Acesse os horários das monitorias clicando [aqui](https://matematica-elementar.github.io/horarios-monitorias).
+<!-- Acesse os horários das monitorias clicando [aqui](https://matematica-elementar.github.io/horarios-monitorias).-->
+Os horários de monitoria serão disponibilizados em breve.
 
 --- 
 Encontrou algum erro ou tem alguma sugestão? Por favor, comunique-nos mandando um e-mail para o endereço [matematicaelementar@imd.ufrn.br](mailto:matematicaelementar@imd.ufrn.br) com a sua contribuição e identificação com nome e turma. Agradecemos a sua colaboração.
