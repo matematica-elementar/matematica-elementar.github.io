@@ -15,11 +15,11 @@ Horários de atendimento:
 |     | Segunda |   Terça  | Quarta |  Quinta  |   Sexta  | Sábado | 
 |-----|:-------:|:--------:|:------:|:--------:|:--------:|:------:|
 | M12 |         |          |        |          |          |        |
-| M34 |         |Sabrina - A220|        |          |Sabrina - A220|        |
-| M56 |Pedro - A220|          |Pedro - A220|          |          |        |
-| T12 |         |Theo - A220|        |Theo - A220|Mariana - A220|        |
-| T34 |         |          |        |          |          |        |
-| T56 |         |          |Mariana - A220|          |          |        |
+| M34 |         |          |        |          |          |        |
+| M56 |Pedro - A220|          |        |          |Pedro - A220|        |
+| T12 |         |          |Mariana - A220|Theo - A220|          |        |
+| T34 |Sabrina - A220|          |Theo - A220|          |Sabrina - A220|        |
+| T56 |Mariana - A220|          |        |          |          |        |
 | N12 |         |          |        |          |          |        |
 | N34 |         |          |        |          |          |        |
 
