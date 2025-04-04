@@ -4,9 +4,9 @@
     theme: jekyll-theme-cayman
 ---
 # Monitoria de Matemática Elementar
-Os monitores para o semestre 2024.1 são Mariana Timbó, Pedro Pinho, Sabrina Barbosa e Theo Henrique. As monitorias presenciais serão na sala A220 e as remotas via servidor do Discord.
+Os monitores para o semestre 2025.1 são Esther Wanderley, Leonardo Nadson, Mariana Timbó, Olive Oliveira e Rayssa Beatriz. As monitorias presenciais serão na sala A220 e as remotas via servidor do Discord.
 
-- [Servidor do Discord](https://discord.gg/CKqCWsv7pT)
+- [Servidor do Discord](https://discord.gg/CKqCWsv7pT) (EM BREVE)
 
 - [Tutorial para iniciantes no Discord](materiais/Tutorial_Discord_Matematica_Elementar.pdf)
 
@@ -16,11 +16,11 @@ Horários de atendimento:
 |-----|:-------:|:--------:|:------:|:--------:|:--------:|:------:|
 | M12 |         |          |        |          |          |        |
 | M34 |         |          |        |          |          |        |
-| M56 |Pedro - A220|          |        |          |Pedro - A220|        |
-| T12 |         |          |Mariana - A220|Theo - A220|          |        |
-| T34 |Sabrina - A220|          |Theo - A220|          |Sabrina - A220|        |
-| T56 |Mariana - A220|          |        |          |          |        |
-| N12 |         |          |        |          |          |        |
+| M56 |         |          |        |Mariana - A220|          |        |
+| T12 |Esther - A220|Rayssa - A220|        |Rayssa - A220|Leonardo - A220|        |
+| T34 |Leonardo - A220|Esther - A220|Mariana - A220|          |          |        |
+| T56 |         |          |        |          |Olive - A220|        |
+| N12 |         |          |        |          |          |Olive - A220|
 | N34 |         |          |        |          |          |        |
 
 ---
