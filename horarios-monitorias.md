@@ -19,8 +19,8 @@ Horários de atendimento:
 | M56 |         |          |        |Mariana - A220|          |        |
 | T12 |Esther - A220|Rayssa - A220|        |Rayssa - A220|Leonardo - A220|        |
 | T34 |Leonardo - A220|Esther - A220|Mariana - A220|          |          |        |
-| T56 |         |          |        |          |Olive - A220|        |
-| N12 |         |          |        |          |          |Olive - A220|
+| T56 |         |          |        |Olive - A220|          |        |
+| N12 |         |          |        |          |Olive - A220|        |
 | N34 |         |          |        |          |          |        |
 
 ---
