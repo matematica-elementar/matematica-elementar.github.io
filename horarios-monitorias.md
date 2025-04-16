@@ -6,7 +6,7 @@
 # Monitoria de Matemática Elementar
 Os monitores para o semestre 2025.1 são Esther Wanderley, Leonardo Nadson, Mariana Timbó, Olive Oliveira e Rayssa Beatriz. As monitorias presenciais serão na sala A220 e as remotas via servidor do Discord.
 
-- [Servidor do Discord](https://discord.gg/CKqCWsv7pT) (EM BREVE)
+- [Servidor do Discord](https://discord.com/channels/1079943193669402754/1079944526124285982) (ATIVO)
 
 - [Tutorial para iniciantes no Discord](materiais/Tutorial_Discord_Matematica_Elementar.pdf)
 
