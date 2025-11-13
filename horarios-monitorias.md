@@ -4,7 +4,7 @@
     theme: jekyll-theme-cayman
 ---
 # Monitoria de Matemática Elementar
-Os monitores para o semestre 2025.2 são Ian Silva, Leonardo Nadson, Letícia Queiroz e Rayssa Beatriz. As monitorias presenciais serão na sala A220 e as remotas (R) via servidor do Discord.
+Os monitores para o semestre 2025.2 são Felipe Augusto, Ian Silva, Leonardo Nadson, Letícia Queiroz e Rayssa Beatriz. As monitorias presenciais serão na sala A220 e as remotas (R) via servidor do Discord.
 
 - [Servidor do Discord](https://discord.gg/2nUgBk5Jpc)
 
@@ -18,8 +18,8 @@ Horários de atendimento:
 | M34 |         |Rayssa - R|        |Letícia - A220|Ian - A220|        |
 | M56 |Rayssa - A220|          |Rayssa - A220|          |Leonardo - A220|        |
 | T12 |         |Letícia - A220|        |Ian - A220|          |        |
-| T34 |         |          |        |          |        |
-| T56 |         |          |        |          |Letícia - R|        |
+| T34 |Felipe - A220|          |        |          |        |
+| T56 |         |Felipe - A220|        |Felipe - R|Letícia - R|        |
 | N12 |Leonardo - R|          |Leonardo - R|          |Ian - R|        |
 | N34 |         |          |        |          |          |        |
 
